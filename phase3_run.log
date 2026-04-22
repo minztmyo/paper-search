@@ -1,0 +1,2722 @@
+11:13:52 Ollama running. Available models: ['llama3.1:8b']
+11:13:52 Total rows in results.csv : 1137
+11:13:52 Rows to annotate          : 873
+11:13:52 
+11:13:52 [1/873] LU99 / PMID 3089986 / abstract / 74 words
+11:13:52   Title: Increased expression of the c-myc gene without gene amplific
+11:14:00   amp=NO oe=YES dep=NO exp=YES kd=NA conf=90
+11:14:00 [2/873] HCC827 / PMID 33858423 / fulltext / 4542 words
+11:14:00   Title: Trichostatin A downregulates bromodomain and extra-terminal 
+11:14:11   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:14:11 [3/873] HCC827 / PMID 35251351 / fulltext / 3944 words
+11:14:11   Title: ATIC facilitates cell growth and migration by upregulating M
+11:14:20   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:14:20 [4/873] HCC827 / PMID 36682147 / abstract / 253 words
+11:14:20   Title: Structure optimization, synthesis, and biological evaluation
+11:14:25   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:14:25 [5/873] HCC827 / PMID 38233864 / fulltext / 7217 words
+11:14:25   Title: Transformation to small cell lung cancer is irrespective of 
+11:14:34   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:14:34 [6/873] HCC827 / PMID 32987632 / fulltext / 6428 words
+11:14:34   Title: Schlafen 12 Is Prognostically Favorable and Reduces C-Myc an
+11:14:43   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:14:43 [7/873] HCC827 / PMID 31217928 / fulltext / 4044 words
+11:14:43   Title: Long non-coding RNA FOXO1 inhibits lung cancer cell growth t
+11:14:52   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:14:52 [8/873] HCC827 / PMID 41584581 / fulltext / 3455 words
+11:14:52   Title: Mebendazole inhibits PELI3-mediated ubiquitination of TRADD 
+11:15:01   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:15:01 [9/873] HCC827 / PMID 31202256 / fulltext / 612 words
+11:15:01   Title: Role of FBXW7 in the quiescence of gefitinib-resistant lung 
+11:15:08   amp=NO oe=NO dep=NO exp=YES kd=YES conf=80
+11:15:08 [10/873] NCIH460 / PMID 40391177 / fulltext / 4688 words
+11:15:08   Title: Inhibition of Dormant Lung Cancer Cell Reactivation by Punic
+11:15:20   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:15:20   [checkpoint] saved 10 annotations so far
+11:15:20 [11/873] NCIH460 / PMID 38672078 / fulltext / 6789 words
+11:15:20   Title: Shrimp Lipids Inhibit Migration, Epithelial-Mesenchymal Tran
+11:15:30   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:15:30 [12/873] NCIH460 / PMID 35475399 / fulltext / 2455 words
+11:15:30   Title: Sufentanil inhibits the proliferation and epithelial mesench
+11:15:39   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:15:40 [13/873] NCIH460 / PMID 37377735 / fulltext / 6369 words
+11:15:40   Title: Iron-mediated oxidative stress induces PD-L1 expression via 
+11:15:49   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:15:49 [14/873] NCIH460 / PMID 36305146 / fulltext / 2745 words
+11:15:49   Title: Wogonin Restrains the Malignant Progression of Lung Cancer T
+11:15:58   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:15:58 [15/873] NCIH460 / PMID 36142379 / fulltext / 4133 words
+11:15:58   Title: Novel Planar Pt(II) Cyclometallated Cytotoxic Complexes with
+11:16:08   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:16:08 [16/873] NCIH460 / PMID 10445853 / abstract / 142 words
+11:16:08   Title: Implication of c-Myc in apoptosis induced by the retinoid CD
+11:16:14   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+11:16:14 [17/873] NCIH460 / PMID 27167001 / fulltext / 5222 words
+11:16:14   Title: A natural small molecule, catechol, induces c-Myc degradatio
+11:16:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:16:24 [18/873] NCIH460 / PMID 29232581 / abstract / 243 words
+11:16:24   Title: Homo- and heteroleptic Pt(II) complexes of ONN donor hydrazo
+11:16:30   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:16:30 [19/873] NCIH460 / PMID 31897183 / fulltext / 3988 words
+11:16:30   Title: POLR1B is upregulated and promotes cell proliferation in non
+11:16:39   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:16:39 [20/873] NCIH460 / PMID 16235994 / abstract / 206 words
+11:16:39   Title: Inhibition of growth, induction of apoptosis and alteration 
+11:16:45   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+11:16:45   [checkpoint] saved 20 annotations so far
+11:16:45 [21/873] NCIH460 / PMID 16104505 / abstract / 207 words
+11:16:45   Title: [Inhibition of proliferation and induction of apoptosis by t
+11:16:50   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:16:50 [22/873] NCIH460 / PMID 37202187 / fulltext / 543 words
+11:16:50   Title: [High expression of MYH9 inhibits apoptosis of non-small cel
+11:16:57   amp=NO oe=NO dep=NO exp=YES kd=NO conf=50
+11:16:57 [23/873] NCIH460 / PMID 34907714 / abstract / 200 words
+11:16:57   Title: Ethyl acetate extract of Clausena excavata induces growth in
+11:17:02   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:17:02 [24/873] NCIH460 / PMID 15077166 / abstract / 276 words
+11:17:02   Title: Cyr61 suppresses the growth of non-small-cell lung cancer ce
+11:17:07   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+11:17:07 [25/873] NCIH460 / PMID 29133054 / abstract / 164 words
+11:17:07   Title: Synthesis, crystal structure and biological evaluation of a 
+11:17:11   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:17:11 [26/873] NCIH460 / PMID 30205260 / abstract / 198 words
+11:17:11   Title: Novel tacrine platinum(II) complexes display high anticancer
+11:17:16   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+11:17:16 [27/873] NCIH460 / PMID 35452996 / fulltext / 5911 words
+11:17:16   Title: Preclinical studies for improving radiosensitivity of non-sm
+11:17:25   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:17:25 [28/873] NCIH460 / PMID 31496920 / fulltext / 4735 words
+11:17:25   Title: CDK5 neutralizes the tumor suppressing effect of BIN1 via me
+11:17:35   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:17:35 [29/873] NCIH460 / PMID 20620131 / abstract / 221 words
+11:17:35   Title: Anti-tumor effects by a synthetic chalcone compound is media
+11:17:41   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+11:17:41 [30/873] HCC44 / PMID 35565305 / fulltext / 9613 words
+11:17:41   Title: EMT, Stemness, and Drug Resistance in Biological Context: A 
+11:17:52   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:17:52   [checkpoint] saved 30 annotations so far
+11:17:52 [31/873] NCIH1792 / PMID 10445853 / abstract / 142 words
+11:17:52   Title: Implication of c-Myc in apoptosis induced by the retinoid CD
+11:17:57   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+11:17:57 [32/873] NCIH82 / PMID 10523691 / abstract / 196 words
+11:17:57   Title: A correlation of APC and c-myc mRNA levels in lung cancer ce
+11:18:02   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:18:02 [33/873] NCIH82 / PMID 32698750 / fulltext / 3577 words
+11:18:02   Title: lncRNAs as Potential Targets in Small Cell Lung Cancer: MYC 
+11:18:11   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:18:11 [34/873] NCIH82 / PMID 35690961 / fulltext / 6133 words
+11:18:11   Title: Myc manipulates the miRNA content and biologic functions of 
+11:18:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:18:24 [35/873] NCIH82 / PMID 8934535 / abstract / 226 words
+11:18:24   Title: Mechanism of all-trans-retinoic acid-mediated L-myc gene reg
+11:18:29   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+11:18:29 [36/873] NCIH82 / PMID 11182068 / abstract / 196 words
+11:18:29   Title: IFNalpha 2b induces apoptosis and proteasome-mediated degrad
+11:18:33   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+11:18:33 [37/873] NCIH82 / PMID 9688306 / abstract / 217 words
+11:18:33   Title: Delivery to cancer cells of antisense L-myc oligonucleotides
+11:18:37   amp=NO oe=NO dep=NO exp=YES kd=NO conf=100
+11:18:37 [38/873] NCIH82 / PMID 7882365 / abstract / 181 words
+11:18:37   Title: Inhibition of proliferation by L-myc antisense DNA for the t
+11:18:41   amp=NO oe=NO dep=NO exp=NA kd=NO conf=100
+11:18:41 [39/873] NCIH82 / PMID 10074929 / abstract / 219 words
+11:18:41   Title: Retinoic acid-mediated growth inhibition of small cell lung 
+11:18:46   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:18:46 [40/873] NCIH82 / PMID 15152945 / abstract / 150 words
+11:18:46   Title: Cellular models of drug- and radiation-resistant small cell 
+11:18:51   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:18:51   [checkpoint] saved 40 annotations so far
+11:18:51 [41/873] NCIH82 / PMID 8123593 / abstract / 184 words
+11:18:51   Title: All-trans-retinoic acid alters myc gene expression and inhib
+11:18:56   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+11:18:56 [42/873] NCIH82 / PMID 3004717 / abstract / 177 words
+11:18:56   Title: Comparison of amplified and unamplified c-myc gene structure
+11:19:00   amp=YES oe=NO dep=NO exp=YES kd=NA conf=90
+11:19:00 [43/873] NCIH82 / PMID 34915142 / abstract / 251 words
+11:19:00   Title: Antagonist G-targeted liposomes for improved delivery of ant
+11:19:05   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:19:05 [44/873] NCIH82 / PMID 10984118 / abstract / 275 words
+11:19:05   Title: A combination treatment of c-myc antisense DNA with all-tran
+11:19:10   amp=YES oe=YES dep=NO exp=YES kd=YES conf=95
+11:19:10 [45/873] NCIH82 / PMID 8707290 / abstract / 284 words
+11:19:10   Title: Detection of amplified genomic sequences in human small-cell
+11:19:15   amp=YES oe=NO dep=NO exp=NA kd=NO conf=90
+11:19:15 [46/873] NCIH1299 / PMID 34429133 / fulltext / 7947 words
+11:19:15   Title: Apatinib triggers autophagic and apoptotic cell death via VE
+11:19:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:19:24 [47/873] NCIH1299 / PMID 36867943 / fulltext / 5625 words
+11:19:24   Title: Hyperoxia induces glucose metabolism reprogramming and intra
+11:19:33   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:19:33 [48/873] NCIH1299 / PMID 39443981 / fulltext / 5276 words
+11:19:33   Title: Cisplatin-resistance and aggressiveness are enhanced by a hi
+11:19:43   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:19:43 [49/873] NCIH1299 / PMID 40721007 / abstract / 250 words
+11:19:43   Title: Dihydroartemisinin inhibits NSCLC by targeting MDM2/c-Myc ax
+11:19:49   amp=NO oe=YES dep=YES exp=YES kd=NA conf=95
+11:19:49 [50/873] NCIH1299 / PMID 39430761 / fulltext / 5610 words
+11:19:49   Title: SNAP25-induced MYC upregulation promotes high-grade neuroend
+11:20:03   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:20:03   [checkpoint] saved 50 annotations so far
+11:20:03 [51/873] NCIH1299 / PMID 38761775 / abstract / 334 words
+11:20:03   Title: The anti-non-small cell lung cancer effect of Diosbulbin B: 
+11:20:10   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:20:10 [52/873] NCIH1299 / PMID 34552037 / fulltext / 5613 words
+11:20:10   Title: Involvement of c-Myc in low dose radiation-induced senescenc
+11:20:20   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:20:20 [53/873] NCIH1299 / PMID 36357457 / fulltext / 3372 words
+11:20:20   Title: Aberrant expression of KDM1A inhibits ferroptosis of lung ca
+11:20:29   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:20:29 [54/873] NCIH1299 / PMID 37946202 / fulltext / 5830 words
+11:20:29   Title: Inhibition of USP7 upregulates USP22 and activates its downs
+11:20:38   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:20:38 [55/873] NCIH1299 / PMID 26427040 / fulltext / 11176 words
+11:20:38   Title: Decoding c-Myc networks of cell cycle and apoptosis regulate
+11:20:48   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:20:48 [56/873] NCIH1299 / PMID 36588811 / fulltext / 4440 words
+11:20:48   Title: Proliferation, apoptosis and invasion of human lung cancer c
+11:20:57   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:20:57 [57/873] NCIH1299 / PMID 38246949 / fulltext / 6979 words
+11:20:57   Title: Discovery of Palbociclib as a potent c-Myc G4 stabilizer for
+11:21:06   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:21:06 [58/873] NCIH1299 / PMID 40006058 / fulltext / 4929 words
+11:21:06   Title: Antitumor Activity of USP7 Inhibitor GNE-6776 in Non-Small C
+11:21:16   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:21:16 [59/873] NCIH1299 / PMID 39531932 / abstract / 223 words
+11:21:16   Title: Discovery of 4-(4-(3-(1-(2-(piperidin-1-yl)ethyl)-1H-benzo[d
+11:21:22   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+11:21:22 [60/873] NCIH1299 / PMID 20940401 / abstract / 233 words
+11:21:22   Title: Tumor cell kill by c-MYC depletion: role of MYC-regulated ge
+11:21:27   amp=NO oe=YES dep=YES exp=YES kd=YES conf=80
+11:21:27   [checkpoint] saved 60 annotations so far
+11:21:27 [61/873] NCIH1299 / PMID 34076979 / abstract / 195 words
+11:21:27   Title: GRAIL inhibits the growth, migration and invasion of lung ad
+11:21:31   amp=NO oe=NO dep=NO exp=YES kd=NO conf=80
+11:21:31 [62/873] NCIH1299 / PMID 25748386 / abstract / 141 words
+11:21:31   Title: Metastasis suppressors Nm23H1 and Nm23H2 differentially regu
+11:21:35   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:21:35 [63/873] NCIH1299 / PMID 35475399 / fulltext / 2455 words
+11:21:35   Title: Sufentanil inhibits the proliferation and epithelial mesench
+11:21:46   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:21:46 [64/873] NCIH1299 / PMID 37070571 / abstract / 350 words
+11:21:46   Title: Berberine targets KIF20A and CCNE2 to inhibit the progressio
+11:21:52   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+11:21:52 [65/873] NCIH1299 / PMID 36522286 / abstract / 218 words
+11:21:52   Title: Effects of Cinobufagin on the Proliferation, Migration, and 
+11:21:56   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+11:21:56 [66/873] MSTO211H / PMID 24926545 / fulltext / 4833 words
+11:21:56   Title: Frequent coamplification and cooperation between C-MYC and P
+11:22:05   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:22:05 [67/873] MSTO211H / PMID 21435101 / fulltext / 3036 words
+11:22:05   Title: Synergistic effect of non-transmissible Sendai virus vector 
+11:22:14   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:22:14 [68/873] MSTO211H / PMID 39804031 / abstract / 148 words
+11:22:14   Title: Selective Degradation of TEADs by a PROTAC Molecule Exhibite
+11:22:19   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:22:19 [69/873] MSTO211H / PMID 28960945 / fulltext / 5296 words
+11:22:19   Title: Novel ATP-competitive Akt inhibitor afuresertib suppresses t
+11:22:29   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:22:29 [70/873] MSTO211H / PMID 24598211 / fulltext / 4082 words
+11:22:29   Title: CELLFOOD™ induces apoptosis in human mesothelioma and colore
+11:22:38   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:22:38   [checkpoint] saved 70 annotations so far
+11:22:38 [71/873] MSTO211H / PMID 2840315 / abstract / 261 words
+11:22:38   Title: Characterization of the state of differentiation of six newl
+11:22:44   amp=NO oe=YES dep=NO exp=NA kd=NO conf=90
+11:22:44 [72/873] CORL23 / PMID 20045455 / abstract / 320 words
+11:22:44   Title: Growth arrest and induction of apoptotic and non-apoptotic p
+11:22:49   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:22:49 [73/873] NCIH1581 / PMID 37715207 / fulltext / 6781 words
+11:22:49   Title: Targeting FGFRs by pemigatinib induces G1 phase cell cycle a
+11:22:58   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:22:58 [74/873] NCIH1581 / PMID 33317057 / fulltext / 3061 words
+11:22:58   Title: Inhibition of the FGF/FGFR System Induces Apoptosis in Lung 
+11:23:12   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:23:12 [75/873] A549 / PMID 34429133 / fulltext / 7947 words
+11:23:12   Title: Apatinib triggers autophagic and apoptotic cell death via VE
+11:23:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:23:21 [76/873] A549 / PMID 36867943 / fulltext / 5625 words
+11:23:21   Title: Hyperoxia induces glucose metabolism reprogramming and intra
+11:23:30   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:23:30 [77/873] A549 / PMID 39443981 / fulltext / 5276 words
+11:23:30   Title: Cisplatin-resistance and aggressiveness are enhanced by a hi
+11:23:39   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:23:39 [78/873] A549 / PMID 38568057 / fulltext / 6276 words
+11:23:39   Title: Development, synthesis and validation of improved c-Myc/Max 
+11:23:49   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:23:49 [79/873] A549 / PMID 35066124 / abstract / 235 words
+11:23:49   Title: 5-Hydroxytryptamine activates a 5-HT/c-Myc/SLC6A4 signaling 
+11:23:55   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:23:55 [80/873] A549 / PMID 40169782 / fulltext / 629 words
+11:23:55   Title: Nicotine promotes the progression and metastasis of non-smal
+11:24:01   amp=NO oe=YES dep=YES exp=YES kd=NA conf=90
+11:24:01   [checkpoint] saved 80 annotations so far
+11:24:01 [81/873] A549 / PMID 30129416 / fulltext / 3303 words
+11:24:01   Title: New N,C-Diaryl-1,2,4-triazol-3-ones: Synthesis and Evaluatio
+11:24:11   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:24:11 [82/873] A549 / PMID 38761775 / abstract / 334 words
+11:24:11   Title: The anti-non-small cell lung cancer effect of Diosbulbin B: 
+11:24:17   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:24:17 [83/873] A549 / PMID 40721007 / abstract / 250 words
+11:24:17   Title: Dihydroartemisinin inhibits NSCLC by targeting MDM2/c-Myc ax
+11:24:22   amp=NO oe=YES dep=YES exp=YES kd=NA conf=95
+11:24:22 [84/873] A549 / PMID 25131138 / abstract / 244 words
+11:24:22   Title: C-Myc participates in β-catenin-mediated drug resistance in 
+11:24:27   amp=NO oe=YES dep=YES exp=YES kd=YES conf=95
+11:24:27 [85/873] A549 / PMID 40543205 / abstract / 181 words
+11:24:27   Title: Naringin mitigates paraquat-induced pulmonary epithelial-mes
+11:24:32   amp=NO oe=NO dep=NO exp=YES kd=NA conf=100
+11:24:32 [86/873] A549 / PMID 40391177 / fulltext / 4688 words
+11:24:32   Title: Inhibition of Dormant Lung Cancer Cell Reactivation by Punic
+11:24:41   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:24:41 [87/873] A549 / PMID 27491743 / fulltext / 5869 words
+11:24:41   Title: The action and mechanism of myrislignan on A549 cells in vit
+11:24:52   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:24:52 [88/873] A549 / PMID 28623290 / fulltext / 4109 words
+11:24:52   Title: TCRP1 transcriptionally regulated by c-Myc confers cancer ch
+11:25:02   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:25:02 [89/873] A549 / PMID 27852004 / abstract / 134 words
+11:25:02   Title: Targeting human telomeric and c-myc G-quadruplexes with alky
+11:25:07   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:25:07 [90/873] LCLC97TM1 / PMID 2840315 / abstract / 261 words
+11:25:07   Title: Characterization of the state of differentiation of six newl
+11:25:11   amp=NO oe=YES dep=NO exp=NA kd=NO conf=90
+11:25:11   [checkpoint] saved 90 annotations so far
+11:25:11 [91/873] NCIH2170 / PMID 34178128 / fulltext / 3070 words
+11:25:11   Title: CNN1 regulates the DKK1/Wnt/β-catenin/c-myc signaling pathwa
+11:25:20   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:25:21 [92/873] NCIH2170 / PMID 32987632 / fulltext / 6428 words
+11:25:21   Title: Schlafen 12 Is Prognostically Favorable and Reduces C-Myc an
+11:25:30   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:25:30 [93/873] LU65 / PMID 3091550 / abstract / 63 words
+11:25:30   Title: Radioimmunoassay of c-myc protein.
+11:25:36   amp=YES oe=NO dep=NO exp=NA kd=NA conf=80
+11:25:36 [94/873] LU65 / PMID 9045892 / fulltext / 2197 words
+11:25:36   Title: Contiguous four-guanosine sequence in c-myc antisense phosph
+11:25:45   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:25:45 [95/873] LU65 / PMID 6098458 / fulltext / 276 words
+11:25:45   Title: A novel combination of K-ras and myc amplification accompani
+11:25:52   amp=YES oe=NO dep=NO exp=YES kd=NA conf=90
+11:25:52 [96/873] LU65 / PMID 3093421 / abstract / 99 words
+11:25:52   Title: Rearrangement of the c-myc gene in two giant cell carcinomas
+11:25:56   amp=NO oe=NO dep=NO exp=NA kd=NA conf=100
+11:25:56 [97/873] LU65 / PMID 8460396 / abstract / 158 words
+11:25:56   Title: Chromosomal location and structure of amplicons in two human
+11:26:00   amp=YES oe=NO dep=NO exp=NA kd=NO conf=90
+11:26:00 [98/873] LU65 / PMID 1665502 / abstract / 201 words
+11:26:00   Title: [Expressions of oncogene products in adenoid cystic carcinom
+11:26:05   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+11:26:05 [99/873] HCC2429 / PMID 30696721 / fulltext / 1104 words
+11:26:05   Title: Clinicopathological and Preclinical Findings of NUT Carcinom
+11:26:14   amp=NO oe=YES dep=NO exp=YES kd=NA conf=70
+11:26:14 [100/873] NCIH23 / PMID 19541726 / fulltext / 4885 words
+11:26:14   Title: Cytotoxic Activities of Physalis minima L. Chloroform Extrac
+11:26:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:26:24   [checkpoint] saved 100 annotations so far
+11:26:24 [101/873] NCIH23 / PMID 23507140 / abstract / 107 words
+11:26:24   Title: MiR-449c targets c-Myc and inhibits NSCLC cell progression.
+11:26:30   amp=YES oe=NO dep=NO exp=YES kd=NA conf=80
+11:26:30 [102/873] NCIH23 / PMID 26607468 / abstract / 176 words
+11:26:30   Title: Regulation of cancer cell death by a novel compound, C604, i
+11:26:34   amp=YES oe=NO dep=NO exp=YES kd=NA conf=80
+11:26:34 [103/873] NCIH23 / PMID 30080437 / fulltext / 9893 words
+11:26:34   Title: JQ1 affects BRD2-dependent and independent transcription reg
+11:26:44   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:26:44 [104/873] NCIH23 / PMID 21092188 / fulltext / 3510 words
+11:26:44   Title: miRNA-145 inhibits non-small cell lung cancer cell prolifera
+11:26:53   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:26:53 [105/873] NCIH23 / PMID 23564796 / abstract / 140 words
+11:26:53   Title: Influence of gefitinib and erlotinib on apoptosis and c-MYC 
+11:26:59   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:26:59 [106/873] NCIH23 / PMID 20045455 / abstract / 320 words
+11:26:59   Title: Growth arrest and induction of apoptotic and non-apoptotic p
+11:27:04   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:27:04 [107/873] NCIH23 / PMID 29098029 / fulltext / 2635 words
+11:27:04   Title: Synergistic anti-proliferative and pro-apoptotic activities 
+11:27:14   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:27:14 [108/873] NCIH23 / PMID 32183428 / fulltext / 3435 words
+11:27:14   Title: The Oncogenic Potential of the Centromeric Border Protein FA
+11:27:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:27:24 [109/873] NCIH23 / PMID 33304892 / fulltext / 4311 words
+11:27:24   Title: Effects of Selenium Nanoparticles Combined With Radiotherapy
+11:27:33   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:27:33 [110/873] NCIH23 / PMID 34946741 / fulltext / 6645 words
+11:27:33   Title: Caffeine Induces G0/G1 Cell Cycle Arrest and Inhibits Migrat
+11:27:43   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:27:43   [checkpoint] saved 110 annotations so far
+11:27:43 [111/873] NCIH23 / PMID 32987632 / fulltext / 6428 words
+11:27:43   Title: Schlafen 12 Is Prognostically Favorable and Reduces C-Myc an
+11:27:52   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:27:52 [112/873] NCIH23 / PMID 37270520 / fulltext / 8493 words
+11:27:52   Title: Structural modification of resveratrol analogue exhibits ant
+11:28:03   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:28:03 [113/873] NCIH23 / PMID 25174355 / abstract / 247 words
+11:28:03   Title: E2F1 downregulation by arsenic trioxide in lung adenocarcino
+11:28:09   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+11:28:09 [114/873] NCIH23 / PMID 25769181 / abstract / 207 words
+11:28:09   Title: Benzo[a]pyrene-induced cell cycle progression occurs via ERK
+11:28:12   amp=NO oe=NO dep=NO exp=NA kd=NA conf=100
+11:28:12 [115/873] NCIH23 / PMID 22095135 / fulltext / 5028 words
+11:28:12   Title: AKT signaling pathway activated by HIN-1 methylation in non-
+11:28:22   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:28:22 [116/873] NCIH23 / PMID 26250586 / fulltext / 537 words
+11:28:22   Title: miR-34c-3p functions as a tumour suppressor by inhibiting eI
+11:28:29   amp=NO oe=NO dep=NO exp=YES kd=NA conf=50
+11:28:29 [117/873] NCIH23 / PMID 32277808 / fulltext / 2505 words
+11:28:29   Title: Lung Cancer Inhibition by Betulinic Acid Nanoparticles via A
+11:28:41   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:28:41 [118/873] NCIH1975 / PMID 31897183 / fulltext / 3988 words
+11:28:41   Title: POLR1B is upregulated and promotes cell proliferation in non
+11:28:51   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:28:51 [119/873] NCIH1975 / PMID 41491011 / fulltext / 6871 words
+11:28:51   Title: ‌PPIA regulates fatty acid and glutamine metabolism in lung 
+11:29:01   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:29:01 [120/873] NCIH1975 / PMID 33758355 / fulltext / 516 words
+11:29:01   Title: DUBR suppresses migration and invasion of human lung adenoca
+11:29:08   amp=NO oe=NO dep=YES exp=YES kd=YES conf=95
+11:29:08   [checkpoint] saved 120 annotations so far
+11:29:08 [121/873] NCIH1975 / PMID 33858423 / fulltext / 4542 words
+11:29:08   Title: Trichostatin A downregulates bromodomain and extra-terminal 
+11:29:19   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:29:19 [122/873] NCIH1975 / PMID 36682147 / abstract / 253 words
+11:29:19   Title: Structure optimization, synthesis, and biological evaluation
+11:29:25   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+11:29:25 [123/873] NCIH1975 / PMID 37202187 / fulltext / 543 words
+11:29:25   Title: [High expression of MYH9 inhibits apoptosis of non-small cel
+11:29:31   amp=NO oe=NO dep=NO exp=YES kd=NO conf=50
+11:29:31 [124/873] NCIH1975 / PMID 33407494 / fulltext / 4572 words
+11:29:31   Title: PlGF knockdown attenuates hypoxia-induced stimulation of cel
+11:29:41   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:29:41 [125/873] NCIH1975 / PMID 29207630 / fulltext / 3542 words
+11:29:41   Title: Shp2 regulates migratory behavior and response to EGFR-TKIs 
+11:29:58   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:29:58 [126/873] NCIH1975 / PMID 32010555 / fulltext / 665 words
+11:29:58   Title: Silence of S1 RNA binding domain 1 represses cell growth and
+11:30:05   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:30:05 [127/873] NCIH1975 / PMID 27402308 / abstract / 244 words
+11:30:05   Title: Rac3 regulates cell proliferation through cell cycle pathway
+11:30:09   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:30:09 [128/873] NCIH1975 / PMID 41287308 / abstract / 708 words
+11:30:09   Title: [Role of MYADM in the cholesterol mediated proliferation and
+11:30:18   amp=NO oe=NO dep=NO exp=YES kd=NA conf=50
+11:30:18 [129/873] NCIH1975 / PMID 30967777 / fulltext / 6271 words
+11:30:18   Title: Apigenin Combined With Gefitinib Blocks Autophagy Flux and I
+11:30:29   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:30:29 [130/873] NCIH1975 / PMID 37424807 / fulltext / 706 words
+11:30:29   Title: Therapeutic potential of EGFR/mTOR/Nf-kb targeting small mol
+11:30:38   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:30:38   [checkpoint] saved 130 annotations so far
+11:30:38 [131/873] NCIH1975 / PMID 29891486 / fulltext / 5185 words
+11:30:38   Title: STAT3 Cyclic Decoy Demonstrates Robust Antitumor Effects in 
+11:30:48   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:30:48 [132/873] NCIH1975 / PMID 32987632 / fulltext / 6428 words
+11:30:48   Title: Schlafen 12 Is Prognostically Favorable and Reduces C-Myc an
+11:30:57   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:30:57 [133/873] NCIH1975 / PMID 38731819 / fulltext / 4338 words
+11:30:57   Title: HOPS/TMUB1 Enhances Apoptosis in TP53 Mutation-Independent S
+11:31:07   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:31:07 [134/873] NCIH1975 / PMID 24598211 / fulltext / 4082 words
+11:31:07   Title: CELLFOOD™ induces apoptosis in human mesothelioma and colore
+11:31:17   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:31:17 [135/873] NCIH1975 / PMID 23185274 / fulltext / 5030 words
+11:31:17   Title: Gefitinib analogue V1801 induces apoptosis of T790M EGFR-har
+11:31:29   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:31:29 [136/873] NCIH1975 / PMID 40928458 / abstract / 279 words
+11:31:29   Title: Aucubin inhibits the activity of lung cancer stem-like cells
+11:31:35   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:31:35 [137/873] NCIH446 / PMID 34009981 / fulltext / 15075 words
+11:31:35   Title: Discovery and Synthesis of a Pyrimidine-Based Aurora Kinase 
+11:31:46   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:31:46 [138/873] NCIH446 / PMID 25518596 / abstract / 322 words
+11:31:46   Title: [Effect of the excretory/scretory proteins from Trichinella 
+11:31:53   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:31:53 [139/873] NCIH446 / PMID 27458097 / fulltext / 3916 words
+11:31:53   Title: Knockdown of Long Noncoding RNA PCAT6 Inhibits Proliferation
+11:32:02   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:32:02 [140/873] NCIH446 / PMID 26063074 / fulltext / 4173 words
+11:32:02   Title: Knockdown of SUMO-activating enzyme subunit 2 (SAE2) suppres
+11:32:12   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:32:12   [checkpoint] saved 140 annotations so far
+11:32:12 [141/873] NCIH446 / PMID 32901891 / fulltext / 3316 words
+11:32:12   Title: Resveratrol inhibits viability and induces apoptosis in the 
+11:32:22   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:32:22 [142/873] NCIH446 / PMID 35158730 / fulltext / 4819 words
+11:32:22   Title: c-Myc Targets HDAC3 to Suppress NKG2DL Expression and Innate
+11:32:33   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:32:33 [143/873] NCIH446 / PMID 21553022 / fulltext / 4400 words
+11:32:33   Title: Lin-28 reactivation is required for let-7 repression and pro
+11:32:42   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:32:42 [144/873] NCIH446 / PMID 12476423 / abstract / 113 words
+11:32:42   Title: [Up-expression of IL-6 and down-expression of TNFalpha may b
+11:32:47   amp=NO oe=NO dep=NO exp=YES kd=NA conf=100
+11:32:47 [145/873] NCIH446 / PMID 39223679 / fulltext / 7975 words
+11:32:47   Title: Combination of arsenic trioxide and apatinib synergistically
+11:32:57   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:32:57 [146/873] NCIH446 / PMID 32445454 / fulltext / 3263 words
+11:32:57   Title: Integrated Analysis of mRNA-seq and miRNA-seq to Identify c-
+11:33:12   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:33:12 [147/873] NCIH446 / PMID 27158399 / fulltext / 450 words
+11:33:12   Title: Arsenic trioxide inhibits cancer stem-like cells via down-re
+11:33:18   amp=NO oe=NO dep=NO exp=YES kd=NA conf=100
+11:33:18 [148/873] NCIH446 / PMID 20388374 / abstract / 287 words
+11:33:18   Title: [Regulation and mechanism of Notch signaling pathway in smal
+11:33:24   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:33:24 [149/873] NCIH446 / PMID 1701450 / fulltext / 332 words
+11:33:24   Title: An adherent subline of a unique small-cell lung cancer cell 
+11:33:28   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:33:28 [150/873] SW1271 / PMID 25122427 / abstract / 247 words
+11:33:28   Title: RET mutation and expression in small-cell lung cancer.
+11:33:33   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:33:33   [checkpoint] saved 150 annotations so far
+11:33:33 [151/873] NCIH1568 / PMID 25613309 / abstract / 205 words
+11:33:33   Title: WT1 enhances proliferation and impedes apoptosis in KRAS mut
+11:33:38   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+11:33:38 [152/873] DMS53 / PMID 23074173 / abstract / 242 words
+11:33:38   Title: The iron chelator, deferasirox, as a novel strategy for canc
+11:33:42   amp=NO oe=NO dep=NO exp=YES kd=NA conf=100
+11:33:42 [153/873] NCIH3122 / PMID 27835869 / fulltext / 5985 words
+11:33:42   Title: OTX015 (MK-8628), a novel BET inhibitor, exhibits antitumor 
+11:33:55   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:33:55 [154/873] NCIH522 / PMID 40244089 / fulltext / 5592 words
+11:33:55   Title: Growth Hormone-Releasing Hormone Antagonists Increase Radios
+11:34:06   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:34:06 [155/873] NCIH522 / PMID 40244089 / fulltext / 5592 words
+11:34:06   Title: Growth Hormone-Releasing Hormone Antagonists Increase Radios
+11:34:16   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:34:16 [156/873] SCLC22H / PMID 3028617 / abstract / 308 words
+11:34:16   Title: Characterization of two cell lines with distinct phenotypes 
+11:34:22   amp=YES oe=NO dep=NO exp=NA kd=NA conf=90
+11:34:22 [157/873] A427 / PMID 10523691 / abstract / 196 words
+11:34:22   Title: A correlation of APC and c-myc mRNA levels in lung cancer ce
+11:34:26   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+11:34:26 [158/873] A427 / PMID 10523691 / abstract / 196 words
+11:34:26   Title: A correlation of APC and c-myc mRNA levels in lung cancer ce
+11:34:30   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+11:34:30 [159/873] A427 / PMID 32626956 / abstract / 308 words
+11:34:30   Title: miR‑192‑5p upregulation mediates the suppression of curcumin
+11:34:36   amp=NO oe=NO dep=YES exp=YES kd=NA conf=95
+11:34:36 [160/873] A427 / PMID 16923617 / abstract / 215 words
+11:34:36   Title: In vitro effects of bovine dialyzable leukocyte extract (bDL
+11:34:40   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+11:34:40   [checkpoint] saved 160 annotations so far
+11:34:40 [161/873] A427 / PMID 8787447 / abstract / 280 words
+11:34:40   Title: c-myc antisense oligodeoxyribonucleotides inhibit proliferat
+11:34:45   amp=NO oe=YES dep=NO exp=YES kd=NO conf=95
+11:34:45 [162/873] A427 / PMID 32626956 / abstract / 308 words
+11:34:45   Title: miR‑192‑5p upregulation mediates the suppression of curcumin
+11:34:51   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+11:34:51 [163/873] A427 / PMID 16923617 / abstract / 215 words
+11:34:51   Title: In vitro effects of bovine dialyzable leukocyte extract (bDL
+11:34:55   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+11:34:55 [164/873] A427 / PMID 8787447 / abstract / 280 words
+11:34:55   Title: c-myc antisense oligodeoxyribonucleotides inhibit proliferat
+11:35:00   amp=NO oe=YES dep=NO exp=YES kd=NO conf=95
+11:35:00 [165/873] DMS273 / PMID 33482073 / abstract / 242 words
+11:35:00   Title: High-Throughput Screening and Triage Assays Identify Small M
+11:35:05   amp=YES oe=NO dep=NO exp=YES kd=NO conf=80
+11:35:05 [166/873] NCIH1048 / PMID 28192473 / fulltext / 3388 words
+11:35:05   Title: Potential effect of spliceosome inhibition in small cell lun
+11:35:15   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:35:15 [167/873] NCIH1048 / PMID 28192473 / fulltext / 3388 words
+11:35:15   Title: Potential effect of spliceosome inhibition in small cell lun
+11:35:26   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:35:26 [168/873] NCIH1048 / PMID 25122427 / abstract / 247 words
+11:35:26   Title: RET mutation and expression in small-cell lung cancer.
+11:35:32   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:35:32 [169/873] NCIH1048 / PMID 25122427 / abstract / 247 words
+11:35:32   Title: RET mutation and expression in small-cell lung cancer.
+11:35:37   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:35:37 [170/873] NCIH1373 / PMID 27607580 / fulltext / 5104 words
+11:35:37   Title: Inhibition of BET bromodomain-dependent XIAP and FLIP expres
+11:35:47   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:35:47   [checkpoint] saved 170 annotations so far
+11:35:47 [171/873] NCIH358 / PMID 35617282 / fulltext / 6601 words
+11:35:47   Title: Potential of phenothiazines to synergistically block calmodu
+11:35:56   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:35:56 [172/873] NCIH358 / PMID 9185588 / abstract / 180 words
+11:35:56   Title: Transactivation of prothymosin alpha and c-myc promoters by 
+11:36:02   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:36:02 [173/873] NCIH358 / PMID 35617282 / fulltext / 6601 words
+11:36:02   Title: Potential of phenothiazines to synergistically block calmodu
+11:36:11   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:36:11 [174/873] NCIH358 / PMID 9185588 / abstract / 180 words
+11:36:11   Title: Transactivation of prothymosin alpha and c-myc promoters by 
+11:36:17   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:36:17 [175/873] NCIH358 / PMID 41070228 / fulltext / 6321 words
+11:36:17   Title: MK2-mediated AKT/MYC signaling activation promotes epithelia
+11:36:26   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:36:26 [176/873] NCIH358 / PMID 33407494 / fulltext / 4572 words
+11:36:26   Title: PlGF knockdown attenuates hypoxia-induced stimulation of cel
+11:36:37   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:36:37 [177/873] NCIH358 / PMID 41070228 / fulltext / 6321 words
+11:36:37   Title: MK2-mediated AKT/MYC signaling activation promotes epithelia
+11:36:46   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:36:46 [178/873] NCIH358 / PMID 33407494 / fulltext / 4572 words
+11:36:46   Title: PlGF knockdown attenuates hypoxia-induced stimulation of cel
+11:36:56   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:36:56 [179/873] NCIH358 / PMID 25174355 / abstract / 247 words
+11:36:56   Title: E2F1 downregulation by arsenic trioxide in lung adenocarcino
+11:37:02   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+11:37:02 [180/873] NCIH358 / PMID 25174355 / abstract / 247 words
+11:37:02   Title: E2F1 downregulation by arsenic trioxide in lung adenocarcino
+11:37:06   amp=NO oe=NO dep=YES exp=YES kd=NA conf=90
+11:37:06   [checkpoint] saved 180 annotations so far
+11:37:06 [181/873] NCIH358 / PMID 32014915 / fulltext / 5901 words
+11:37:06   Title: Inhibition of Cell-surface Molecular GPR87 With GPR87-suppre
+11:37:15   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:37:15 [182/873] NCIH358 / PMID 32014915 / fulltext / 5901 words
+11:37:15   Title: Inhibition of Cell-surface Molecular GPR87 With GPR87-suppre
+11:37:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:37:24 [183/873] NCIH358 / PMID 25538889 / fulltext / 10943 words
+11:37:24   Title: Altered Transcriptional Control Networks with Trans-Differen
+11:37:35   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:37:35 [184/873] NCIH358 / PMID 24157876 / fulltext / 4173 words
+11:37:35   Title: LHX6 acts as a novel potential tumour suppressor with epigen
+11:37:47   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:37:47 [185/873] NCIH358 / PMID 25538889 / fulltext / 10943 words
+11:37:47   Title: Altered Transcriptional Control Networks with Trans-Differen
+11:37:58   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:37:58 [186/873] NCIH358 / PMID 24157876 / fulltext / 4173 words
+11:37:58   Title: LHX6 acts as a novel potential tumour suppressor with epigen
+11:38:10   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:38:10 [187/873] NCIH358 / PMID 22095135 / fulltext / 5028 words
+11:38:10   Title: AKT signaling pathway activated by HIN-1 methylation in non-
+11:38:20   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:38:20 [188/873] NCIH358 / PMID 22095135 / fulltext / 5028 words
+11:38:20   Title: AKT signaling pathway activated by HIN-1 methylation in non-
+11:38:29   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:38:29 [189/873] NCIH1703 / PMID 31935827 / fulltext / 5424 words
+11:38:29   Title: Chelerythrine Chloride Downregulates β-Catenin and Inhibits 
+11:38:38   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:38:38 [190/873] NCIH1703 / PMID 31935827 / fulltext / 5424 words
+11:38:38   Title: Chelerythrine Chloride Downregulates β-Catenin and Inhibits 
+11:38:47   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:38:47   [checkpoint] saved 190 annotations so far
+11:38:47 [191/873] NCIH1703 / PMID 34783629 / fulltext / 6437 words
+11:38:47   Title: Role of Rho guanine nucleotide exchange factors in non-small
+11:38:57   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:38:57 [192/873] NCIH1703 / PMID 34783629 / fulltext / 6437 words
+11:38:57   Title: Role of Rho guanine nucleotide exchange factors in non-small
+11:39:06   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:39:06 [193/873] NCIH28 / PMID 25335113 / abstract / 297 words
+11:39:06   Title: Downregulation of thymidylate synthase and E2F1 by arsenic t
+11:39:11   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:39:11 [194/873] NCIH28 / PMID 28960945 / fulltext / 5296 words
+11:39:11   Title: Novel ATP-competitive Akt inhibitor afuresertib suppresses t
+11:39:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:39:21 [195/873] NCIH28 / PMID 21701776 / fulltext / 4368 words
+11:39:21   Title: Transforming growth factor-β-induced protein (TGFBI) suppres
+11:39:31   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:39:31 [196/873] NCIH322 / PMID 37202187 / abstract / 316 words
+11:39:31   Title: [High expression of MYH9 inhibits apoptosis of non-small cel
+11:39:38   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:39:38 [197/873] NCIH838 / PMID 23507140 / abstract / 107 words
+11:39:38   Title: MiR-449c targets c-Myc and inhibits NSCLC cell progression.
+11:39:42   amp=YES oe=NO dep=NO exp=YES kd=NA conf=80
+11:39:42 [198/873] NCIH838 / PMID 23507140 / abstract / 107 words
+11:39:42   Title: MiR-449c targets c-Myc and inhibits NSCLC cell progression.
+11:39:47   amp=YES oe=NO dep=NO exp=YES kd=NA conf=80
+11:39:47 [199/873] NCIH838 / PMID 41419978 / fulltext / 4341 words
+11:39:47   Title: Guanylate-binding proteins score and a CBFA2T3-included risk
+11:39:57   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:39:57 [200/873] NCIH838 / PMID 34696818 / fulltext / 7151 words
+11:39:57   Title: 19-Hydroxybufalin inhibits non-small cell lung cancer cell p
+11:40:08   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:40:08   [checkpoint] saved 200 annotations so far
+11:40:08 [201/873] NCIH838 / PMID 41419978 / fulltext / 4341 words
+11:40:08   Title: Guanylate-binding proteins score and a CBFA2T3-included risk
+11:40:19   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:40:19 [202/873] NCIH838 / PMID 34696818 / fulltext / 7151 words
+11:40:19   Title: 19-Hydroxybufalin inhibits non-small cell lung cancer cell p
+11:40:28   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:40:28 [203/873] NCIH1435 / PMID 35251351 / fulltext / 3944 words
+11:40:28   Title: ATIC facilitates cell growth and migration by upregulating M
+11:40:37   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:40:37 [204/873] NCIH2052 / PMID 25335113 / abstract / 297 words
+11:40:37   Title: Downregulation of thymidylate synthase and E2F1 by arsenic t
+11:40:43   amp=NO oe=NO dep=NO exp=YES kd=NO conf=90
+11:40:43 [205/873] NCIH2052 / PMID 28960945 / fulltext / 5296 words
+11:40:43   Title: Novel ATP-competitive Akt inhibitor afuresertib suppresses t
+11:40:52   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:40:52 [206/873] NCIH292 / PMID 38672078 / fulltext / 6789 words
+11:40:52   Title: Shrimp Lipids Inhibit Migration, Epithelial-Mesenchymal Tran
+11:41:01   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:41:01 [207/873] NCIH292 / PMID 36792075 / fulltext / 723 words
+11:41:01   Title: [PHF5A Promotes Proliferation and Migration of Non-Small Cel
+11:41:11   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:41:11 [208/873] NCIH292 / PMID 33356727 / fulltext / 3956 words
+11:41:11   Title: α-Hederin inhibits the growth of lung cancer A549 cells in v
+11:41:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:41:21 [209/873] NCIH292 / PMID 21442024 / fulltext / 497 words
+11:41:21   Title: Critical role of Shp2 in tumor growth involving regulation o
+11:41:29   amp=NO oe=NO dep=YES exp=YES kd=YES conf=95
+11:41:29 [210/873] NCIH292 / PMID 29207630 / fulltext / 3542 words
+11:41:29   Title: Shp2 regulates migratory behavior and response to EGFR-TKIs 
+11:41:43   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:41:43   [checkpoint] saved 210 annotations so far
+11:41:43 [211/873] NCIH292 / PMID 36674871 / fulltext / 6677 words
+11:41:43   Title: N,N'-Diarylurea Derivatives (CTPPU) Inhibited NSCLC Cell Gro
+11:41:52   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:41:52 [212/873] NCIH292 / PMID 37270520 / fulltext / 8493 words
+11:41:52   Title: Structural modification of resveratrol analogue exhibits ant
+11:42:02   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:42:02 [213/873] NCIH520 / PMID 33317057 / fulltext / 3061 words
+11:42:02   Title: Inhibition of the FGF/FGFR System Induces Apoptosis in Lung 
+11:42:12   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:42:12 [214/873] NCIH520 / PMID 15077166 / abstract / 276 words
+11:42:12   Title: Cyr61 suppresses the growth of non-small-cell lung cancer ce
+11:42:18   amp=NO oe=YES dep=NO exp=YES kd=NA conf=90
+11:42:18 [215/873] NCIH520 / PMID 27608774 / fulltext / 4293 words
+11:42:18   Title: The inhibition of epidermal growth factor receptor signaling
+11:42:27   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:42:27 [216/873] CALU3 / PMID 21505065 / fulltext / 377 words
+11:42:27   Title: A weak C' box renders U3 snoRNA levels dependent on hU3-55K 
+11:42:34   amp=NO oe=NO dep=NO exp=YES kd=NO conf=90
+11:42:34 [217/873] CALU3 / PMID 10523691 / abstract / 196 words
+11:42:34   Title: A correlation of APC and c-myc mRNA levels in lung cancer ce
+11:42:39   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:42:39 [218/873] CALU3 / PMID 3413126 / fulltext / 315 words
+11:42:39   Title: Analysis of gene amplification in human tumor cell lines.
+11:42:44   amp=YES oe=NO dep=NO exp=NA kd=NO conf=80
+11:42:44 [219/873] CALU3 / PMID 10523844 / abstract / 324 words
+11:42:44   Title: Increased dosage and amplification of the focal adhesion kin
+11:42:49   amp=YES oe=NO dep=NO exp=NA kd=NO conf=80
+11:42:49 [220/873] CALU3 / PMID 23515529 / fulltext / 461 words
+11:42:49   Title: COMMD1 interacts with the COOH terminus of NKCC1 in Calu-3 a
+11:42:54   amp=NO oe=NO dep=NO exp=YES kd=NO conf=100
+11:42:54   [checkpoint] saved 220 annotations so far
+11:42:54 [221/873] NCIH226 / PMID 25335113 / abstract / 297 words
+11:42:54   Title: Downregulation of thymidylate synthase and E2F1 by arsenic t
+11:42:59   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+11:42:59 [222/873] NCIH226 / PMID 35116963 / fulltext / 3421 words
+11:42:59   Title: Anticancer effect of the traditional Chinese medicine herb M
+11:43:10   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:43:10 [223/873] NCIH226 / PMID 21460851 / fulltext / 9867 words
+11:43:10   Title: Upregulation of miR-27a contributes to the malignant transfo
+11:43:19   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:43:19 [224/873] NCIH727 / PMID 33807122 / fulltext / 5200 words
+11:43:19   Title: Antitumoral Activity of the MEK Inhibitor Trametinib (TMT212
+11:43:32   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:43:32 [225/873] NCIH727 / PMID 32033025 / fulltext / 5504 words
+11:43:32   Title: Inhibition of Wnt/β-Catenin Signaling in Neuroendocrine Tumo
+11:43:41   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:43:41 [226/873] NCIH1355 / PMID 25769181 / abstract / 207 words
+11:43:41   Title: Benzo[a]pyrene-induced cell cycle progression occurs via ERK
+11:43:47   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:43:47 [227/873] NCIH1650 / PMID 40169782 / fulltext / 629 words
+11:43:47   Title: Nicotine promotes the progression and metastasis of non-smal
+11:43:54   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+11:43:54 [228/873] NCIH1650 / PMID 34132294 / fulltext / 316 words
+11:43:54   Title: Polysaccharides from Ulva prolifera O.F. Müller inhibit cell
+11:43:59   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+11:43:59 [229/873] NCIH1650 / PMID 27608840 / fulltext / 3674 words
+11:43:59   Title: Overexpression of PHRF1 attenuates the proliferation and tum
+11:44:11   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:44:11 [230/873] NCIH1650 / PMID 24727000 / fulltext / 6452 words
+11:44:11   Title: Cationic lipid guided short-hairpin RNA interference of anne
+11:44:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:44:21   [checkpoint] saved 230 annotations so far
+11:44:21 [231/873] NCIH1650 / PMID 24598211 / fulltext / 4082 words
+11:44:21   Title: CELLFOOD™ induces apoptosis in human mesothelioma and colore
+11:44:30   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:44:30 [232/873] NCIH1650 / PMID 34465343 / fulltext / 7223 words
+11:44:30   Title: CIRP promotes the progression of non-small cell lung cancer 
+11:44:40   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:44:40 [233/873] SCLC21H / PMID 3028617 / abstract / 308 words
+11:44:40   Title: Characterization of two cell lines with distinct phenotypes 
+11:44:46   amp=YES oe=NO dep=NO exp=NA kd=NA conf=90
+11:44:46 [234/873] NCIH1755 / PMID 33302540 / fulltext / 4643 words
+11:44:46   Title: Long Noncoding RNA DANCR Activates Wnt/β-Catenin Signaling t
+11:44:55   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:44:55 [235/873] MPP89 / PMID 24598211 / fulltext / 4082 words
+11:44:55   Title: CELLFOOD™ induces apoptosis in human mesothelioma and colore
+11:45:05   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:45:05 [236/873] NCIH2009 / PMID 28676221 / abstract / 264 words
+11:45:05   Title: MYC expression correlates with PD-L1 expression in non-small
+11:45:10   amp=NO oe=YES dep=NO exp=YES kd=YES conf=80
+11:45:10 [237/873] NCIH2009 / PMID 27840955 / abstract / 199 words
+11:45:10   Title: miR-141 regulation of EIF4E expression affects docetaxel che
+11:45:15   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:45:15 [238/873] NCIH510 / PMID 7882365 / abstract / 181 words
+11:45:15   Title: Inhibition of proliferation by L-myc antisense DNA for the t
+11:45:19   amp=NO oe=NO dep=NO exp=YES kd=NO conf=80
+11:45:19 [239/873] NCIH441 / PMID 26349604 / fulltext / 4017 words
+11:45:19   Title: Role of GLI1 and NDRG1 in Increased Resistance to Apoptosis 
+11:45:29   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:45:29 [240/873] NCIH441 / PMID 21036740 / abstract / 183 words
+11:45:29   Title: Inhibition of Myc effectively targets KRAS mutation-positive
+11:45:34   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+11:45:34   [checkpoint] saved 240 annotations so far
+11:45:34 [241/873] NCIH441 / PMID 28786996 / fulltext / 9493 words
+11:45:34   Title: Establishment of highly metastatic KRAS mutant lung cancer c
+11:45:43   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:45:43 [242/873] CALU1 / PMID 26108998 / fulltext / 5591 words
+11:45:43   Title: The comparison between dual inhibition of mTOR with MAPK and
+11:45:55   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:45:55 [243/873] CALU1 / PMID 25573172 / abstract / 251 words
+11:45:55   Title: Dickkopf-3 (Dkk3) induces apoptosis in cisplatin-resistant l
+11:46:01   amp=NO oe=NO dep=NO exp=YES kd=NO conf=100
+11:46:01 [244/873] CALU1 / PMID 12204894 / abstract / 167 words
+11:46:01   Title: Glucocorticoids inhibit lung cancer cell growth through both
+11:46:04   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:46:04 [245/873] CALU1 / PMID 16923617 / abstract / 215 words
+11:46:04   Title: In vitro effects of bovine dialyzable leukocyte extract (bDL
+11:46:09   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+11:46:09 [246/873] CALU1 / PMID 25769181 / abstract / 207 words
+11:46:09   Title: Benzo[a]pyrene-induced cell cycle progression occurs via ERK
+11:46:14   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:46:14 [247/873] NCIH146 / PMID 2557917 / abstract / 235 words
+11:46:14   Title: Stimulation of the topoisomerase II induced DNA cleavage sit
+11:46:18   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+11:46:18 [248/873] NCIH146 / PMID 20424609 / fulltext / 4870 words
+11:46:18   Title: Molecular characterisation of side population cells with can
+11:46:28   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:46:28 [249/873] NCIH146 / PMID 2553249 / abstract / 227 words
+11:46:28   Title: Potentiation of interferon induction of class I major histoc
+11:46:35   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:46:35 [250/873] PC9 / PMID 38761775 / abstract / 334 words
+11:46:35   Title: The anti-non-small cell lung cancer effect of Diosbulbin B: 
+11:46:40   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:46:40   [checkpoint] saved 250 annotations so far
+11:46:40 [251/873] PC9 / PMID 33204101 / fulltext / 3722 words
+11:46:40   Title: Long Noncoding RNA LINC00551 Suppresses Glycolysis and Tumor
+11:46:50   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:46:50 [252/873] PC9 / PMID 34926665 / fulltext / 3176 words
+11:46:50   Title: LncRNA NFYC-AS1 promotes the development of lung adenocarcin
+11:46:59   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:46:59 [253/873] PC9 / PMID 36792075 / fulltext / 723 words
+11:46:59   Title: [PHF5A Promotes Proliferation and Migration of Non-Small Cel
+11:47:08   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:47:08 [254/873] PC9 / PMID 31337706 / fulltext / 756 words
+11:47:08   Title: De novo synthesis of serine and glycine fuels purine nucleot
+11:47:17   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+11:47:17 [255/873] PC9 / PMID 31233201 / fulltext / 4012 words
+11:47:17   Title: let‑7 and miR‑17 promote self‑renewal and drive gefitinib re
+11:47:26   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:47:26 [256/873] PC9 / PMID 33407494 / fulltext / 4572 words
+11:47:26   Title: PlGF knockdown attenuates hypoxia-induced stimulation of cel
+11:47:35   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:47:35 [257/873] PC9 / PMID 34058054 / fulltext / 4736 words
+11:47:35   Title: TIP30 overcomes gefitinib resistance by regulating cytoplasm
+11:47:47   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:47:47 [258/873] PC9 / PMID 31496920 / fulltext / 4735 words
+11:47:47   Title: CDK5 neutralizes the tumor suppressing effect of BIN1 via me
+11:47:56   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:47:56 [259/873] PC9 / PMID 35399566 / fulltext / 5224 words
+11:47:56   Title: The downregulation of fibrinogen-like protein 1 inhibits the
+11:48:05   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:48:05 [260/873] PC9 / PMID 31481083 / fulltext / 3559 words
+11:48:05   Title: Roles of MYC-targeting long non-coding RNA MINCR in cell cyc
+11:48:14   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:48:14   [checkpoint] saved 260 annotations so far
+11:48:14 [261/873] PC9 / PMID 41438252 / fulltext / 10618 words
+11:48:14   Title: CEMIP promotes gefitinib resistance in lung cancer with EGFR
+11:48:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:48:24 [262/873] PC9 / PMID 25960639 / fulltext / 2440 words
+11:48:24   Title: Wnt blockers inhibit the proliferation of lung cancer stem c
+11:48:35   attempt 1 failed: JSONDecodeError("Expecting ',' delimiter: line 7 column 24 (char 265)")  raw='{\n    "cell_line": "PC9",\n    "enrichment_method": "colony formation and sphere culture",\n    "expre'
+11:48:51   attempt 2 failed: JSONDecodeError("Expecting ',' delimiter: line 7 column 24 (char 265)")  raw='{\n    "cell_line": "PC9",\n    "enrichment_method": "colony formation and sphere culture",\n    "expre'
+11:49:13   attempt 3 failed: JSONDecodeError("Expecting ',' delimiter: line 7 column 24 (char 265)")  raw='{\n    "cell_line": "PC9",\n    "enrichment_method": "colony formation and sphere culture",\n    "expre'
+11:49:39   attempt 4 failed: JSONDecodeError("Expecting ',' delimiter: line 7 column 24 (char 265)")  raw='{\n    "cell_line": "PC9",\n    "enrichment_method": "colony formation and sphere culture",\n    "expre'
+11:49:39   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:49:39 [263/873] PC9 / PMID 34602035 / fulltext / 3093 words
+11:49:39   Title: An Anti-EGFR/anti- HER2 Bispecific Antibody with Enhanced An
+11:49:50   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:49:50 [264/873] PC9 / PMID 34783629 / fulltext / 6437 words
+11:49:50   Title: Role of Rho guanine nucleotide exchange factors in non-small
+11:49:59   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:49:59 [265/873] PC9 / PMID 32014915 / fulltext / 5901 words
+11:49:59   Title: Inhibition of Cell-surface Molecular GPR87 With GPR87-suppre
+11:50:08   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:50:08 [266/873] PC9 / PMID 24922639 / abstract / 138 words
+11:50:08   Title: Identification of metabolic signatures associated with erlot
+11:50:15   amp=YES oe=NO dep=NO exp=YES kd=NA conf=80
+11:50:15 [267/873] PC9 / PMID 31202256 / fulltext / 612 words
+11:50:15   Title: Role of FBXW7 in the quiescence of gefitinib-resistant lung 
+11:50:21   amp=NO oe=NO dep=NO exp=YES kd=NO conf=80
+11:50:21 [268/873] PC9 / PMID 34026596 / fulltext / 3147 words
+11:50:21   Title: Beta-Elemene Reduces the Malignancy of Non-Small Cell Lung C
+11:50:30   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:50:30 [269/873] LCLC103H / PMID 2840315 / abstract / 261 words
+11:50:30   Title: Characterization of the state of differentiation of six newl
+11:50:36   amp=NO oe=YES dep=NO exp=NA kd=NO conf=90
+11:50:36 [270/873] NCIH1651 / PMID 30693913 / fulltext / 2973 words
+11:50:36   Title: Metformin Inhibit Lung Cancer Cell Growth and Invasion in Vi
+11:50:45   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:50:45   [checkpoint] saved 270 annotations so far
+11:50:45 [271/873] NCIH209 / PMID 35690961 / fulltext / 6133 words
+11:50:45   Title: Myc manipulates the miRNA content and biologic functions of 
+11:50:58   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:50:58 [272/873] NCIH209 / PMID 10074929 / abstract / 219 words
+11:50:58   Title: Retinoic acid-mediated growth inhibition of small cell lung 
+11:51:04   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+11:51:04 [273/873] NCIH209 / PMID 7882365 / abstract / 181 words
+11:51:04   Title: Inhibition of proliferation by L-myc antisense DNA for the t
+11:51:09   amp=NO oe=YES dep=NO exp=YES kd=YES conf=80
+11:51:09 [274/873] NCIH209 / PMID 9626477 / abstract / 169 words
+11:51:09   Title: The growth inhibitory effect of N1,N12-bis(ethyl)spermine in
+11:51:14   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+11:51:14 [275/873] NCIH209 / PMID 9850091 / abstract / 268 words
+11:51:14   Title: Association of the decreased expression of alpha3beta1 integ
+11:51:18   amp=NO oe=YES dep=NO exp=YES kd=NA conf=90
+11:51:18 [276/873] NCIH209 / PMID 9688306 / abstract / 217 words
+11:51:18   Title: Delivery to cancer cells of antisense L-myc oligonucleotides
+11:51:23   amp=NO oe=NO dep=NO exp=YES kd=YES conf=80
+11:51:23 [277/873] NCIH209 / PMID 28447263 / fulltext / 4081 words
+11:51:23   Title: Design of a Lentiviral Vector for the Inducible Expression o
+11:51:32   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:51:32 [278/873] NCIH209 / PMID 1655253 / abstract / 248 words
+11:51:32   Title: c-myc gene-induced alterations in protein kinase C expressio
+11:51:39   amp=NO oe=YES dep=NO exp=YES kd=NA conf=90
+11:51:39 [279/873] NCIH209 / PMID 9101084 / abstract / 274 words
+11:51:39   Title: Protein kinase C-beta 2 inhibits cycling and decreases c-myc
+11:51:43   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:51:43 [280/873] NCIH209 / PMID 2553249 / abstract / 227 words
+11:51:43   Title: Potentiation of interferon induction of class I major histoc
+11:51:49   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:51:49   [checkpoint] saved 280 annotations so far
+11:51:49 [281/873] SKMES1 / PMID 8787447 / abstract / 280 words
+11:51:49   Title: c-myc antisense oligodeoxyribonucleotides inhibit proliferat
+11:51:54   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+11:51:54 [282/873] CALU6 / PMID 41422484 / abstract / 236 words
+11:51:54   Title: LAT1/SLC7A5-mediated amino acid uptake is regulated by redox
+11:51:59   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:51:59 [283/873] CALU6 / PMID 37875162 / fulltext / 8627 words
+11:51:59   Title: Formyl-peptide receptor 2 signalling triggers aerobic metabo
+11:52:08   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:52:08 [284/873] CALU6 / PMID 27177968 / abstract / 192 words
+11:52:08   Title: Nuclear localization of Formyl-Peptide Receptor 2 in human c
+11:52:14   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:52:14 [285/873] NCIH69 / PMID 37347224 / fulltext / 7997 words
+11:52:14   Title: CSNK2A1-mediated MAX phosphorylation upregulates HMGB1 and I
+11:52:23   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:52:23 [286/873] NCIH69 / PMID 14743551 / abstract / 228 words
+11:52:23   Title: Expression of oncogenes depends on biotin in human small cel
+11:52:29   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+11:52:29 [287/873] NCIH69 / PMID 3091550 / abstract / 63 words
+11:52:29   Title: Radioimmunoassay of c-myc protein.
+11:52:33   amp=NO oe=YES dep=NO exp=NA kd=NA conf=80
+11:52:33 [288/873] NCIH69 / PMID 15152945 / abstract / 150 words
+11:52:33   Title: Cellular models of drug- and radiation-resistant small cell 
+11:52:38   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:52:38 [289/873] NCIH69 / PMID 35583004 / fulltext / 5804 words
+11:52:38   Title: Colony‑stimulating factor CSF2 mediates the phenotypic plast
+11:52:50   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:52:50 [290/873] NCIH69 / PMID 19446745 / abstract / 212 words
+11:52:50   Title: Cytogenetic characterization of NCI-H69 and NCI-H69AR small 
+11:52:55   amp=NO oe=NO dep=NO exp=NA kd=NA conf=100
+11:52:55   [checkpoint] saved 290 annotations so far
+11:52:55 [291/873] NCIH69 / PMID 9662339 / abstract / 261 words
+11:52:55   Title: Transition from SCLC to NSCLC phenotype is accompanied by an
+11:53:01   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:53:01 [292/873] NCIH69 / PMID 8187006 / abstract / 181 words
+11:53:01   Title: Effects of granulocyte-macrophage colony-stimulating factor 
+11:53:06   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:53:06 [293/873] NCIH69 / PMID 8763867 / fulltext / 321 words
+11:53:06   Title: Decreased ability of cells overexpressing MYC proteins to re
+11:53:11   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+11:53:11 [294/873] NCIH69 / PMID 22123490 / abstract / 165 words
+11:53:11   Title: Coamplification of multiple regions of chromosome 2, includi
+11:53:16   amp=YES oe=NO dep=NO exp=NA kd=NA conf=80
+11:53:16 [295/873] NCIH69 / PMID 33094831 / fulltext / 428 words
+11:53:16   Title: Identifying specific Notch1 target proteins in lung carcinom
+11:53:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=100
+11:53:21 [296/873] NCIH69 / PMID 34915142 / abstract / 251 words
+11:53:21   Title: Antagonist G-targeted liposomes for improved delivery of ant
+11:53:26   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:53:26 [297/873] NCIH69 / PMID 23617956 / fulltext / 4100 words
+11:53:26   Title: Role of follicle-stimulating hormone on biliary cyst growth 
+11:53:35   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:53:35 [298/873] NCIH69 / PMID 8707290 / abstract / 284 words
+11:53:35   Title: Detection of amplified genomic sequences in human small-cell
+11:53:43   amp=YES oe=NO dep=NO exp=NA kd=NA conf=80
+11:53:43 [299/873] NCIH69 / PMID 4026848 / abstract / 98 words
+11:53:43   Title: Amplified DNA sequences in cancers.
+11:53:47   amp=YES oe=NO dep=NO exp=NA kd=NO conf=80
+11:53:47 [300/873] NCIH1184 / PMID 25487614 / fulltext / 6346 words
+11:53:47   Title: Staurosporine analogs promote distinct patterns of process o
+11:53:57   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:53:57   [checkpoint] saved 300 annotations so far
+11:53:57 [301/873] NCIH526 / PMID 2536917 / abstract / 290 words
+11:53:57   Title: Expression of p64c-myc and neuroendocrine properties define 
+11:54:03   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+11:54:03 [302/873] NCIH526 / PMID 32788207 / abstract / 160 words
+11:54:03   Title: Novel, Selective Inhibitors of USP7 Uncover Multiple Mechani
+11:54:06   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+11:54:06 [303/873] NCIH526 / PMID 3085922 / abstract / 371 words
+11:54:06   Title: Additive and differential biological activity of alpha-inter
+11:54:11   amp=NO oe=NO dep=NO exp=YES kd=NA conf=95
+11:54:11 [304/873] NCIH526 / PMID 20424609 / fulltext / 4870 words
+11:54:11   Title: Molecular characterisation of side population cells with can
+11:54:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:54:21 [305/873] SW900 / PMID 10523691 / abstract / 196 words
+11:54:21   Title: A correlation of APC and c-myc mRNA levels in lung cancer ce
+11:54:27   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+11:54:27 [306/873] NCIH889 / PMID 25070243 / abstract / 283 words
+11:54:27   Title: Cytotoxic effects of pyrrolidine dithiocarbamate in small-ce
+11:54:31   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:54:31 [307/873] SBC5 / PMID 25884680 / fulltext / 2947 words
+11:54:31   Title: Control of the MYC-eIF4E axis plus mTOR inhibitor treatment 
+11:54:40   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:54:40 [308/873] SBC5 / PMID 8535284 / abstract / 138 words
+11:54:40   Title: Coexpression of the myc gene family members in human neurobl
+11:54:46   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+11:54:46 [309/873] NCIH596 / PMID 31574980 / fulltext / 3107 words
+11:54:46   Title: CNOT2 Is Critically Involved in Atorvastatin Induced Apoptot
+11:55:00   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:55:00 [310/873] NCIH596 / PMID 27231235 / fulltext / 2489 words
+11:55:00   Title: Farnesiferol c induces apoptosis via regulation of L11 and c
+11:55:11   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:55:11   [checkpoint] saved 310 annotations so far
+11:55:11 [311/873] NCIH2227 / PMID 35158730 / fulltext / 4819 words
+11:55:11   Title: c-Myc Targets HDAC3 to Suppress NKG2DL Expression and Innate
+11:55:20   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:55:20 [312/873] BEN / PMID 22389870 / fulltext / 3208 words
+11:55:20   Title: Molecular characterization of neuroendocrine prostate cancer
+11:55:30   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:55:30 [313/873] NCIH196 / PMID 39622733 / abstract / 457 words
+11:55:30   Title: [The effect of c-Myc on regulating the immune-related ligand
+11:55:38   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+11:55:38 [314/873] NCIH196 / PMID 25070243 / abstract / 283 words
+11:55:38   Title: Cytotoxic effects of pyrrolidine dithiocarbamate in small-ce
+11:55:43   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:55:43 [315/873] NCIH196 / PMID 39223679 / fulltext / 7975 words
+11:55:43   Title: Combination of arsenic trioxide and apatinib synergistically
+11:55:53   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:55:53 [316/873] COLO320 / PMID 7682105 / abstract / 194 words
+11:55:53   Title: Recombination between separate MYC amplification structures 
+11:55:58   amp=YES oe=NO dep=NO exp=YES kd=NA conf=90
+11:55:58 [317/873] COLO320 / PMID 33482073 / abstract / 242 words
+11:55:58   Title: High-Throughput Screening and Triage Assays Identify Small M
+11:56:03   amp=YES oe=NO dep=NO exp=YES kd=NO conf=80
+11:56:03 [318/873] COLO320 / PMID 2821605 / abstract / 196 words
+11:56:03   Title: The role of the oncogene c-myc in sporadic large bowel cance
+11:56:08   amp=YES oe=NO dep=NO exp=NA kd=NO conf=80
+11:56:08 [319/873] COLO320 / PMID 37503084 / fulltext / 4571 words
+11:56:08   Title: Phase separation of ecDNA aggregates establishes in-trans co
+11:56:18   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:56:18 [320/873] COLO320 / PMID 2725491 / fulltext / 298 words
+11:56:18   Title: The PVT gene frequently amplifies with MYC in tumor cells.
+11:56:25   amp=YES oe=NO dep=NO exp=NA kd=NA conf=95
+11:56:25   [checkpoint] saved 320 annotations so far
+11:56:25 [321/873] COLO320 / PMID 1330296 / abstract / 169 words
+11:56:25   Title: Mapping chromosomal breakpoints of Burkitt's t(8;14) translo
+11:56:29   amp=YES oe=NO dep=NO exp=YES kd=NA conf=80
+11:56:29 [322/873] COLO320 / PMID 3002438 / abstract / 214 words
+11:56:29   Title: Isolation and characterization of the human cellular myc gen
+11:56:35   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:56:35 [323/873] COLO320 / PMID 2545339 / abstract / 145 words
+11:56:35   Title: Amplification of the integrated viral transforming genes of 
+11:56:39   amp=NO oe=YES dep=NO exp=NA kd=NA conf=80
+11:56:39 [324/873] COLO320 / PMID 1690597 / abstract / 237 words
+11:56:39   Title: Damage and repair induced by bleomycin in the domain of huma
+11:56:44   amp=YES oe=NO dep=NO exp=YES kd=NA conf=80
+11:56:44 [325/873] COLO320 / PMID 3837844 / fulltext / 398 words
+11:56:44   Title: Augmented expression of normal c-myc is sufficient for cotra
+11:56:49   amp=YES oe=NO dep=NO exp=YES kd=NO conf=80
+11:56:49 [326/873] RKO / PMID 39128702 / fulltext / 6909 words
+11:56:49   Title: NDRG1 enhances the sensitivity to Cetuximab by promoting Sta
+11:56:58   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:56:58 [327/873] RKO / PMID 26003165 / fulltext / 3596 words
+11:56:58   Title: MYC-repressed long noncoding RNAs antagonize MYC-induced cel
+11:57:07   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:57:07 [328/873] RKO / PMID 33731248 / fulltext / 70 words
+11:57:07   Title: Erratum.
+11:57:12   amp=NO oe=NO dep=NO exp=NA kd=NA conf=100
+11:57:12 [329/873] RKO / PMID 33581651 / abstract / 177 words
+11:57:12   Title: ACBP suppresses the proliferation, migration, and invasion o
+11:57:17   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:57:17 [330/873] RKO / PMID 31441682 / abstract / 222 words
+11:57:17   Title: Inhibition of miR31 and miR92a as Oncological Biomarkers in 
+11:57:23   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:57:23   [checkpoint] saved 330 annotations so far
+11:57:23 [331/873] RKO / PMID 1540946 / abstract / 186 words
+11:57:23   Title: Sensitivity of nuclear c-myc levels and induction to differe
+11:57:28   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:57:28 [332/873] RKO / PMID 26250123 / abstract / 268 words
+11:57:28   Title: Epigenetic silencing of NDRG2 promotes colorectal cancer pro
+11:57:33   amp=NO oe=NO dep=YES exp=YES kd=NA conf=95
+11:57:33 [333/873] RKO / PMID 38864840 / abstract / 181 words
+11:57:33   Title: Coumarin-modified ruthenium complexes: Synthesis, characteri
+11:57:37   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:57:37 [334/873] RKO / PMID 36295798 / fulltext / 5503 words
+11:57:37   Title: Three New Compounds, Licopyranol A-C, Together with Eighteen
+11:57:47   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:57:47 [335/873] RKO / PMID 30655753 / fulltext / 2998 words
+11:57:47   Title: Lentiviral vector-mediated IL-9 overexpression stimulates ce
+11:57:56   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:57:56 [336/873] RKO / PMID 36384455 / fulltext / 4064 words
+11:57:56   Title: Ribosomal protein RPL5 regulates colon cancer cell prolifera
+11:58:06   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:58:06 [337/873] RKO / PMID 34395239 / fulltext / 7841 words
+11:58:06   Title: A Novel Mechanism of the c-Myc/NEAT1 Axis Mediating Colorect
+11:58:15   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:58:15 [338/873] RKO / PMID 36575468 / fulltext / 8707 words
+11:58:15   Title: BMX, a specific HDAC8 inhibitor, with TMZ for advanced CRC t
+11:58:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:58:24 [339/873] RKO / PMID 25338671 / fulltext / 493 words
+11:58:24   Title: S-Adenosylmethionine and methylthioadenosine inhibit β-caten
+11:58:30   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+11:58:30 [340/873] RKO / PMID 40410534 / fulltext / 4267 words
+11:58:30   Title: Inhibition of colorectal carcinogenesis by sunitinib malate:
+11:58:40   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:58:40   [checkpoint] saved 340 annotations so far
+11:58:40 [341/873] RKO / PMID 29760071 / fulltext / 581 words
+11:58:40   Title: PRDM1 silences stem cell-related genes and inhibits prolifer
+11:58:46   amp=NO oe=NO dep=NO exp=YES kd=NO conf=80
+11:58:46 [342/873] RKO / PMID 29301594 / fulltext / 3628 words
+11:58:46   Title: Emodin Inhibits Colon Cancer Cell Invasion and Migration by 
+11:58:56   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:58:56 [343/873] RKO / PMID 23520519 / fulltext / 9413 words
+11:58:56   Title: Protein kinase C delta negatively modulates canonical Wnt pa
+11:59:06   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:59:06 [344/873] RKO / PMID 29925347 / fulltext / 6006 words
+11:59:06   Title: WDR5 supports colon cancer cells by promoting methylation of
+11:59:15   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:59:15 [345/873] RKO / PMID 24947187 / fulltext / 6426 words
+11:59:15   Title: CSNK1E/CTNNB1 are synthetic lethal to TP53 in colorectal can
+11:59:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:59:24 [346/873] HT29 / PMID 39164214 / abstract / 255 words
+11:59:24   Title: Astragaloside IV Ameliorates Colonic Adenomatous Polyps Deve
+11:59:31   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+11:59:31 [347/873] HT29 / PMID 30129416 / fulltext / 3329 words
+11:59:31   Title: New N,C-Diaryl-1,2,4-triazol-3-ones: Synthesis and Evaluatio
+11:59:40   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:59:40 [348/873] HT29 / PMID 39990665 / fulltext / 6038 words
+11:59:40   Title: Solobacterium moorei promotes tumor progression via the Inte
+11:59:49   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:59:49 [349/873] HT29 / PMID 30944638 / fulltext / 3154 words
+11:59:49   Title: c-Myc maintains the self-renewal and chemoresistance propert
+11:59:58   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+11:59:58 [350/873] HT29 / PMID 38037834 / fulltext / 2909 words
+11:59:58   Title: KIF20A Promotes CRC Progression and the Warburg Effect throu
+12:00:07   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:00:07   [checkpoint] saved 350 annotations so far
+12:00:07 [351/873] HT29 / PMID 40104705 / fulltext / 6107 words
+12:00:07   Title: FAM60A promotes proliferation and invasion of colorectal can
+12:00:16   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:00:16 [352/873] HT29 / PMID 40701468 / abstract / 226 words
+12:00:16   Title: Disruption of c-Myc/Max heterodimerization induced by a nove
+12:00:22   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:00:22 [353/873] HT29 / PMID 37407874 / fulltext / 6283 words
+12:00:22   Title: Functional Analysis and Clinical Importance of ATP1A1 in Col
+12:00:32   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:00:32 [354/873] HT29 / PMID 33391729 / fulltext / 6590 words
+12:00:32   Title: Anti- c-myc cholesterol based lipoplexes as onco-nanotherape
+12:00:45   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:00:45 [355/873] HT29 / PMID 32538588 / abstract / 276 words
+12:00:45   Title: DERL3 suppresses colorectal cancer metastasis through negati
+12:00:51   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:00:51 [356/873] HT29 / PMID 38994157 / fulltext / 5714 words
+12:00:51   Title: Complement factor I knockdown inhibits colon cancer developm
+12:01:00   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:01:00 [357/873] HT29 / PMID 28871429 / fulltext / 2450 words
+12:01:00   Title: Elucidating the rapid action of 2-(2-chlorophenyl)ethylbigua
+12:01:13   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:01:13 [358/873] HT29 / PMID 40295067 / abstract / 338 words
+12:01:13   Title: SH003 Inhibits Proliferation and Induces Apoptosis in Colon 
+12:01:19   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:01:19 [359/873] NCIH716 / PMID 24027017 / fulltext / 4813 words
+12:01:19   Title: Expulsion of micronuclei containing amplified genes contribu
+12:01:28   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:01:28 [360/873] SW620 / PMID 40675969 / fulltext / 7681 words
+12:01:28   Title: NKD1 enhances colon cancer progression by inhibiting the aut
+12:01:38   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:01:38   [checkpoint] saved 360 annotations so far
+12:01:38 [361/873] SW620 / PMID 39164214 / abstract / 255 words
+12:01:38   Title: Astragaloside IV Ameliorates Colonic Adenomatous Polyps Deve
+12:01:44   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:01:44 [362/873] SW620 / PMID 39437684 / abstract / 341 words
+12:01:44   Title: Yes-associated protein indispensably mediates hirsutine-indu
+12:01:49   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:01:49 [363/873] SW620 / PMID 37132439 / abstract / 219 words
+12:01:49   Title: Dihydroartemisinin inhibited stem cell-like properties and e
+12:01:53   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:01:53 [364/873] SW620 / PMID 40295067 / abstract / 338 words
+12:01:53   Title: SH003 Inhibits Proliferation and Induces Apoptosis in Colon 
+12:01:58   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:01:58 [365/873] SW620 / PMID 40254691 / fulltext / 6447 words
+12:01:58   Title: CD147 regulates the Rap1 signaling pathway to promote prolif
+12:02:07   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:02:07 [366/873] SW620 / PMID 25023051 / fulltext / 6834 words
+12:02:07   Title: The role of c2orf68 and PI3K/Akt/mTOR pathway in human color
+12:02:16   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:02:16 [367/873] SW620 / PMID 11707650 / abstract / 152 words
+12:02:16   Title: Modification of the sensitivity to cisplatin with c-myc over
+12:02:22   amp=NO oe=YES dep=YES exp=YES kd=NA conf=95
+12:02:22 [368/873] SW620 / PMID 30668330 / abstract / 233 words
+12:02:22   Title: Physciosporin suppresses the proliferation, motility and tum
+12:02:26   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:02:26 [369/873] SW620 / PMID 35394639 / fulltext / 4385 words
+12:02:26   Title: Methionine restriction enhances the chemotherapeutic sensiti
+12:02:36   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:02:36 [370/873] SW620 / PMID 41373021 / fulltext / 5134 words
+12:02:36   Title: A core stemness-associated module reveals PLK1, NUF2, KIF23,
+12:02:45   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:02:45   [checkpoint] saved 370 annotations so far
+12:02:45 [371/873] SW620 / PMID 39098911 / fulltext / 6704 words
+12:02:45   Title: Regulatory role of lncH19 in RAC1 alternative splicing: impl
+12:02:54   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:02:54 [372/873] SW620 / PMID 21184144 / fulltext / 6146 words
+12:02:54   Title: Transcriptional silencing of N-Myc downstream-regulated gene
+12:03:04   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:03:04 [373/873] SW620 / PMID 29475734 / fulltext / 502 words
+12:03:04   Title: miR-145 Antagonizes SNAI1-Mediated Stemness and Radiation Re
+12:03:11   amp=NO oe=NO dep=NO exp=YES kd=NA conf=50
+12:03:11 [374/873] SW620 / PMID 31829306 / abstract / 196 words
+12:03:11   Title: circCDYL/microRNA-105-5p participates in modulating growth a
+12:03:16   amp=NO oe=YES dep=YES exp=YES kd=NA conf=95
+12:03:16 [375/873] SW620 / PMID 41303707 / fulltext / 6869 words
+12:03:16   Title: Lithium-Induced Modulation of Proliferation and Apoptosis in
+12:03:25   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:03:25 [376/873] SW620 / PMID 41052685 / abstract / 194 words
+12:03:25   Title: Cadinane sesquiterpenes from Alangium platanifolium: structu
+12:03:31   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:03:31 [377/873] SW620 / PMID 24858349 / abstract / 171 words
+12:03:31   Title: Ru-indoloquinoline complex as a selective and effective huma
+12:03:35   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:03:35 [378/873] SW620 / PMID 26607468 / abstract / 176 words
+12:03:35   Title: Regulation of cancer cell death by a novel compound, C604, i
+12:03:39   amp=YES oe=NO dep=NO exp=YES kd=NA conf=80
+12:03:39 [379/873] SW620 / PMID 25205133 / abstract / 248 words
+12:03:39   Title: Emodin suppresses Wnt signaling in human colorectal cancer c
+12:03:44   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:03:44 [380/873] KM12 / PMID 21531700 / fulltext / 6498 words
+12:03:44   Title: Coordinated regulation of mitochondrial topoisomerase IB wit
+12:03:56   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:03:56   [checkpoint] saved 380 annotations so far
+12:03:56 [381/873] KM12 / PMID 2138228 / abstract / 242 words
+12:03:56   Title: Isolation of human colon carcinoma cells for resistance to a
+12:04:02   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:04:02 [382/873] KM12 / PMID 21513580 / fulltext / 6700 words
+12:04:02   Title: High susceptibility of metastatic cells derived from human p
+12:04:11   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:04:11 [383/873] LS180 / PMID 15817155 / abstract / 200 words
+12:04:11   Title: Survivin enhances telomerase activity via up-regulation of s
+12:04:17   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+12:04:17 [384/873] LS180 / PMID 11820638 / abstract / 198 words
+12:04:17   Title: Effect of tyrphostins on programmed cell death in colon aden
+12:04:21   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:04:21 [385/873] LS180 / PMID 22108803 / fulltext / 429 words
+12:04:21   Title: VDR/RXR and TCF4/β-catenin cistromes in colonic cells of col
+12:04:26   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:04:26 [386/873] LS180 / PMID 19360348 / abstract / 247 words
+12:04:26   Title: Down-regulation of hTERT expression plays an important role 
+12:04:31   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:04:31 [387/873] LS180 / PMID 31100403 / abstract / 200 words
+12:04:31   Title: Cantharellus cibarius branched mannans inhibits colon cancer
+12:04:35   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:04:35 [388/873] LS513 / PMID 8645306 / abstract / 131 words
+12:04:35   Title: Differential effect of interleukin-4 and transforming growth
+12:04:40   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:04:40 [389/873] LS513 / PMID 41907458 / fulltext / 6660 words
+12:04:40   Title: Identification and validation of butyrate metabolism-related
+12:04:49   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:04:49 [390/873] SW480 / PMID 33153498 / fulltext / 6933 words
+12:04:49   Title: TM4SF1 promotes EMT and cancer stemness via the Wnt/β-cateni
+12:04:59   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:04:59   [checkpoint] saved 390 annotations so far
+12:04:59 [391/873] SW480 / PMID 34288067 / abstract / 117 words
+12:04:59   Title: Retraction.
+12:05:05   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:05:05 [392/873] SW480 / PMID 38037834 / fulltext / 2924 words
+12:05:05   Title: KIF20A Promotes CRC Progression and the Warburg Effect throu
+12:05:14   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:05:14 [393/873] SW480 / PMID 32104496 / fulltext / 5493 words
+12:05:14   Title: The c-Myc/miR-27b-3p/ATG10 regulatory axis regulates chemore
+12:05:23   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:05:23 [394/873] SW480 / PMID 34440834 / fulltext / 2252 words
+12:05:23   Title: miR193a-5p Mediated ZNF746 and c-Myc Signaling Axis Is Criti
+12:05:34   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:05:34 [395/873] SW480 / PMID 38313375 / fulltext / 3802 words
+12:05:34   Title: Isoproterenol Alters Metabolism, Promotes Survival and Migra
+12:05:47   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:05:47 [396/873] SW480 / PMID 40295067 / abstract / 338 words
+12:05:47   Title: SH003 Inhibits Proliferation and Induces Apoptosis in Colon 
+12:05:53   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:05:53 [397/873] SW480 / PMID 32071551 / fulltext / 4123 words
+12:05:53   Title: Integrin α1 promotes tumorigenicity and progressive capacity
+12:06:02   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:06:02 [398/873] SW480 / PMID 30664176 / abstract / 249 words
+12:06:02   Title: Interaction between C2ORF68 and HuR in human colorectal canc
+12:06:08   amp=NO oe=YES dep=NO exp=YES kd=YES conf=80
+12:06:08 [399/873] SW480 / PMID 38521952 / fulltext / 7239 words
+12:06:08   Title: Enhanced bacterial cancer therapy delivering therapeutic RNA
+12:06:17   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:06:17 [400/873] SW480 / PMID 8823991 / abstract / 332 words
+12:06:17   Title: Correlation between c-myc protein expression and phases of t
+12:06:23   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:06:23   [checkpoint] saved 400 annotations so far
+12:06:23 [401/873] SW480 / PMID 26096932 / fulltext / 4289 words
+12:06:23   Title: Integrin α1β1 expression is controlled by c-MYC in colorecta
+12:06:32   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:06:32 [402/873] SW480 / PMID 36884140 / fulltext / 600 words
+12:06:32   Title: Phloretin induces G2/M arrest and apoptosis by suppressing t
+12:06:39   amp=NO oe=NO dep=NO exp=NA kd=NA conf=100
+12:06:39 [403/873] SW480 / PMID 25023051 / fulltext / 6834 words
+12:06:39   Title: The role of c2orf68 and PI3K/Akt/mTOR pathway in human color
+12:06:50   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:06:50 [404/873] SW480 / PMID 31861674 / fulltext / 4273 words
+12:06:50   Title: Phosphoenolpyruvate from Glycolysis and PEPCK Regulate Cance
+12:06:59   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:06:59 [405/873] SW480 / PMID 31743135 / fulltext / 5536 words
+12:06:59   Title: Berberine inhibits proliferation and migration of colorectal
+12:07:08   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:07:08 [406/873] SW480 / PMID 35394639 / fulltext / 4385 words
+12:07:08   Title: Methionine restriction enhances the chemotherapeutic sensiti
+12:07:18   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:07:18 [407/873] SW480 / PMID 24764668 / fulltext / 627 words
+12:07:18   Title: Non-transmissible Sendai virus vector encoding c-myc suppres
+12:07:25   amp=NO oe=YES dep=YES exp=YES kd=NA conf=95
+12:07:25 [408/873] SW480 / PMID 11707650 / abstract / 152 words
+12:07:25   Title: Modification of the sensitivity to cisplatin with c-myc over
+12:07:30   amp=NO oe=YES dep=YES exp=YES kd=YES conf=95
+12:07:30 [409/873] SW480 / PMID 31734632 / fulltext / 5156 words
+12:07:30   Title: Targeting bromodomain-containing protein 4 (BRD4) inhibits M
+12:07:39   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:07:39 [410/873] DLD1 / PMID 39990665 / fulltext / 6038 words
+12:07:39   Title: Solobacterium moorei promotes tumor progression via the Inte
+12:07:49   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:07:49   [checkpoint] saved 410 annotations so far
+12:07:49 [411/873] DLD1 / PMID 37183314 / abstract / 232 words
+12:07:49   Title: ALDH2 promotes cancer stemness and metastasis in colorectal 
+12:07:55   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:07:55 [412/873] DLD1 / PMID 24919179 / fulltext / 410 words
+12:07:55   Title: The interplay between histone deacetylases and c-Myc in the 
+12:08:00   amp=NO oe=NO dep=NO exp=YES kd=YES conf=80
+12:08:00 [413/873] DLD1 / PMID 29475734 / fulltext / 502 words
+12:08:00   Title: miR-145 Antagonizes SNAI1-Mediated Stemness and Radiation Re
+12:08:06   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:08:06 [414/873] DLD1 / PMID 30668330 / abstract / 233 words
+12:08:06   Title: Physciosporin suppresses the proliferation, motility and tum
+12:08:10   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:08:10 [415/873] DLD1 / PMID 22547830 / fulltext / 499 words
+12:08:10   Title: Transcription factors c-Myc and CDX2 mediate E-selectin liga
+12:08:16   amp=NO oe=YES dep=NO exp=YES kd=YES conf=80
+12:08:16 [416/873] DLD1 / PMID 26250123 / abstract / 268 words
+12:08:16   Title: Epigenetic silencing of NDRG2 promotes colorectal cancer pro
+12:08:22   amp=NO oe=NO dep=YES exp=YES kd=NA conf=95
+12:08:22 [417/873] DLD1 / PMID 25913757 / abstract / 199 words
+12:08:22   Title: Differentiation-inducing factor-3 inhibits intestinal tumor 
+12:08:27   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:08:27 [418/873] DLD1 / PMID 37513937 / fulltext / 4088 words
+12:08:27   Title: Cryptolepine Suppresses Colorectal Cancer Cell Proliferation
+12:08:39   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:08:39 [419/873] DLD1 / PMID 30867802 / fulltext / 529 words
+12:08:39   Title: Inhibition of phosphodiesterase 4D decreases the malignant p
+12:08:47   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:08:47 [420/873] DLD1 / PMID 1586975 / abstract / 169 words
+12:08:47   Title: Posttranscriptional regulation of c-myc proto-oncogene expre
+12:08:51   amp=NO oe=NO dep=NO exp=YES kd=NO conf=90
+12:08:51   [checkpoint] saved 420 annotations so far
+12:08:51 [421/873] DLD1 / PMID 27455418 / fulltext / 464 words
+12:08:51   Title: Methylglyoxal suppresses human colon cancer cell lines and t
+12:08:57   amp=NO oe=NO dep=YES exp=YES kd=NA conf=90
+12:08:57 [422/873] DLD1 / PMID 26807311 / fulltext / 464 words
+12:08:57   Title: Impact of prospero homeobox-1 on tumor cell behavior and pro
+12:09:02   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:09:02 [423/873] DLD1 / PMID 2660982 / abstract / 156 words
+12:09:02   Title: Reversible suppression of c-myc expression in a human colon 
+12:09:07   amp=NO oe=NO dep=NO exp=YES kd=NO conf=80
+12:09:07 [424/873] DLD1 / PMID 28903410 / fulltext / 5890 words
+12:09:07   Title: RASSF6 downregulation promotes the epithelial-mesenchymal tr
+12:09:16   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:09:16 [425/873] DLD1 / PMID 37509438 / fulltext / 3870 words
+12:09:16   Title: 2,3,5,4'-Tetrahydroxystilbene (TG1), a Novel Compound Derive
+12:09:25   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:09:25 [426/873] DLD1 / PMID 16875674 / abstract / 133 words
+12:09:25   Title: Down-regulation of telomerase activity in DLD-1 human colore
+12:09:31   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:09:31 [427/873] DLD1 / PMID 16216547 / abstract / 212 words
+12:09:31   Title: Polyunsaturated fatty acids inhibit telomerase activity in D
+12:09:36   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:09:36 [428/873] DLD1 / PMID 17409395 / abstract / 263 words
+12:09:36   Title: PRL-3 down-regulates PTEN expression and signals through PI3
+12:09:40   amp=NO oe=NO dep=NO exp=YES kd=NA conf=100
+12:09:40 [429/873] T84 / PMID 26096932 / fulltext / 4289 words
+12:09:40   Title: Integrin α1β1 expression is controlled by c-MYC in colorecta
+12:09:50   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:09:50 [430/873] T84 / PMID 11445004 / abstract / 178 words
+12:09:50   Title: Expression of the Ca2+-activated chloride channel genes CLCA
+12:09:55   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:09:55   [checkpoint] saved 430 annotations so far
+12:09:55 [431/873] T84 / PMID 23866118 / fulltext / 5980 words
+12:09:55   Title: TNFα and IL-17 cooperatively stimulate glucose metabolism an
+12:10:04   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:10:04 [432/873] T84 / PMID 29925347 / fulltext / 6006 words
+12:10:04   Title: WDR5 supports colon cancer cells by promoting methylation of
+12:10:14   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:10:14 [433/873] T84 / PMID 28933766 / fulltext / 3869 words
+12:10:14   Title: Involvement of the Integrin α1β1 in the Progression of Color
+12:10:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:10:24 [434/873] T84 / PMID 27856419 / fulltext / 614 words
+12:10:24   Title: Neuropeptide Y (NPY) promotes inflammation-induced tumorigen
+12:10:32   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:10:32 [435/873] SW837 / PMID 8376401 / abstract / 340 words
+12:10:32   Title: Sodium butyrate causes an increase in the block to transcrip
+12:10:37   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+12:10:37 [436/873] SW837 / PMID 3078950 / abstract / 157 words
+12:10:37   Title: Evidence for a labile intermediate in the butyrate induced r
+12:10:42   amp=NO oe=NO dep=NO exp=YES kd=NO conf=80
+12:10:42 [437/873] SW837 / PMID 36908321 / fulltext / 3766 words
+12:10:42   Title: Potent bromodomain and extraterminal domain inhibitor JAB-82
+12:10:53   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:10:53 [438/873] SW837 / PMID 7642726 / abstract / 223 words
+12:10:53   Title: Influence of protein tyrosine phosphorylation on the express
+12:10:59   amp=NO oe=NO dep=YES exp=YES kd=NA conf=90
+12:10:59 [439/873] SW837 / PMID 20841488 / fulltext / 4469 words
+12:10:59   Title: Transcriptional attenuation in colon carcinoma cells in resp
+12:11:08   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:11:08 [440/873] SW403 / PMID 16899113 / fulltext / 5900 words
+12:11:08   Title: Down-regulation of c-Myc following MEK/ERK inhibition halts 
+12:11:20   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:11:20   [checkpoint] saved 440 annotations so far
+12:11:20 [441/873] SW403 / PMID 30238564 / fulltext / 5047 words
+12:11:20   Title: RK-287107, a potent and specific tankyrase inhibitor, blocks
+12:11:29   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:11:29 [442/873] SW403 / PMID 36808265 / fulltext / 11882 words
+12:11:29   Title: Novel read through agent: ZKN-0013 demonstrates efficacy in 
+12:11:39   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:11:39 [443/873] HCT15 / PMID 35559417 / fulltext / 457 words
+12:11:39   Title: PNMA5 accelerated cellular proliferation, invasion and migra
+12:11:46   amp=NO oe=NO dep=YES exp=YES kd=YES conf=80
+12:11:46 [444/873] HCT15 / PMID 40082673 / fulltext / 10554 words
+12:11:46   Title: KLF6-mediated recruitment of the p300 complex enhances H3K23
+12:11:59   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:11:59 [445/873] HCT15 / PMID 28950657 / abstract / 174 words
+12:11:59   Title: The BET-Bromodomain Inhibitor JQ1 synergized ABT-263 against
+12:12:05   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:12:05 [446/873] HCT15 / PMID 30338942 / fulltext / 3692 words
+12:12:05   Title: MiR-30-5p suppresses cell chemoresistance and stemness in co
+12:12:14   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:12:14 [447/873] HCT15 / PMID 21531700 / fulltext / 6498 words
+12:12:14   Title: Coordinated regulation of mitochondrial topoisomerase IB wit
+12:12:27   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:12:27 [448/873] HCT15 / PMID 29267898 / abstract / 264 words
+12:12:27   Title: A polymorphic MYC response element in KBTBD11 influences col
+12:12:32   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:12:32 [449/873] HCT15 / PMID 28223542 / fulltext / 3491 words
+12:12:32   Title: The in vitro and vivo effects of nuclear and cytosolic paraf
+12:12:43   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:12:43 [450/873] HCT15 / PMID 24118446 / fulltext / 506 words
+12:12:43   Title: Amurensin G enhances the susceptibility to tumor necrosis fa
+12:12:51   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:12:51   [checkpoint] saved 450 annotations so far
+12:12:51 [451/873] HCT15 / PMID 10660115 / abstract / 196 words
+12:12:51   Title: Differential effects of retinoic acid on growth and apoptosi
+12:12:56   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+12:12:56 [452/873] HCT15 / PMID 29925347 / fulltext / 6006 words
+12:12:56   Title: WDR5 supports colon cancer cells by promoting methylation of
+12:13:06   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:13:06 [453/873] HCT15 / PMID 39197803 / abstract / 372 words
+12:13:06   Title: Jiedu Xiaozheng Yin extract targets cancer stem cells by Wnt
+12:13:12   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:13:12 [454/873] HCT15 / PMID 35619550 / fulltext / 3984 words
+12:13:12   Title: Melatonin and andrographolide synergize to inhibit the colos
+12:13:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:13:21 [455/873] HCT15 / PMID 39061234 / fulltext / 5424 words
+12:13:21   Title: Fibroblasts Promote Resistance to KRAS Silencing in Colorect
+12:13:30   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:13:30 [456/873] HCT15 / PMID 30675309 / fulltext / 498 words
+12:13:30   Title: Effects of Beclin 1 overexpression on aggressive phenotypes 
+12:13:38   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:13:38 [457/873] HCT15 / PMID 21284881 / fulltext / 4284 words
+12:13:38   Title: Mechanisms of confluence-dependent expression of CD26 in col
+12:13:48   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:13:48 [458/873] HCT15 / PMID 21370894 / abstract / 181 words
+12:13:48   Title: Cytotoxic and antineoplastic activity of timosaponin A-III f
+12:13:53   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:13:53 [459/873] HCT15 / PMID 18449496 / fulltext / 1261 words
+12:13:53   Title: Cytotoxic components from the dried rhizomes of Zingiber off
+12:14:02   amp=NO oe=NO dep=NO exp=YES kd=NA conf=50
+12:14:02 [460/873] HCT15 / PMID 26506423 / fulltext / 4817 words
+12:14:02   Title: Bis-cyclopropane analog of disorazole C1 is a microtubule-de
+12:14:12   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:14:12   [checkpoint] saved 460 annotations so far
+12:14:12 [461/873] LOVO / PMID 33153498 / fulltext / 6933 words
+12:14:12   Title: TM4SF1 promotes EMT and cancer stemness via the Wnt/β-cateni
+12:14:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:14:21 [462/873] LOVO / PMID 40295067 / abstract / 338 words
+12:14:21   Title: SH003 Inhibits Proliferation and Induces Apoptosis in Colon 
+12:14:27   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:14:27 [463/873] LOVO / PMID 40719950 / fulltext / 3940 words
+12:14:27   Title: Activated PLK1 promotes the migration and invasion of polypl
+12:14:43   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:14:43 [464/873] LOVO / PMID 16428936 / abstract / 214 words
+12:14:43   Title: Decrease in c-Myc activity enhances cancer cell sensitivity 
+12:14:49   amp=NO oe=NO dep=YES exp=YES kd=YES conf=95
+12:14:49 [465/873] LOVO / PMID 30664176 / abstract / 249 words
+12:14:49   Title: Interaction between C2ORF68 and HuR in human colorectal canc
+12:14:54   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:14:54 [466/873] LOVO / PMID 34921134 / fulltext / 7598 words
+12:14:54   Title: Knockdown of OLR1 weakens glycolytic metabolism to repress c
+12:15:04   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:15:04 [467/873] LOVO / PMID 41843316 / fulltext / 2466 words
+12:15:04   Title: STC2 promotes colorectal cancer progression via c-Myc-mediat
+12:15:14   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:15:14 [468/873] LOVO / PMID 32505045 / abstract / 149 words
+12:15:14   Title: A new Schiff base copper(II) complex induces cancer cell gro
+12:15:20   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:15:20 [469/873] LOVO / PMID 24932313 / fulltext / 3101 words
+12:15:20   Title: FBXL20 acts as an invasion inducer and mediates E-cadherin i
+12:15:29   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:15:29 [470/873] LOVO / PMID 38229111 / fulltext / 5706 words
+12:15:29   Title: The radiation- and chemo-sensitizing capacity of diclofenac 
+12:15:38   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:15:38   [checkpoint] saved 470 annotations so far
+12:15:38 [471/873] LOVO / PMID 32774415 / fulltext / 4934 words
+12:15:38   Title: Network Pharmacology Analysis and Experiments Validation of 
+12:15:47   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:15:47 [472/873] LOVO / PMID 24244343 / fulltext / 4443 words
+12:15:47   Title: Resveratrol inhibits invasion and metastasis of colorectal c
+12:15:58   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:15:58 [473/873] LOVO / PMID 35299743 / fulltext / 7132 words
+12:15:58   Title: Retinoic Acid-Induced 2 (RAI2) Is a Novel Antagonist of Wnt/
+12:16:07   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:16:07 [474/873] LOVO / PMID 29434885 / fulltext / 437 words
+12:16:07   Title: Low-dose paclitaxel downregulates MYC proto-oncogene bHLH tr
+12:16:14   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:16:14 [475/873] LOVO / PMID 29267898 / abstract / 264 words
+12:16:14   Title: A polymorphic MYC response element in KBTBD11 influences col
+12:16:18   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+12:16:18 [476/873] LOVO / PMID 32594834 / fulltext / 412 words
+12:16:18   Title: Hsa-miR-425-5p promotes tumor growth and metastasis by activ
+12:16:24   amp=NO oe=YES dep=NO exp=YES kd=YES conf=80
+12:16:24 [477/873] LOVO / PMID 31783811 / fulltext / 3786 words
+12:16:24   Title: Syndecan-1 suppresses cell growth and migration via blocking
+12:16:35   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:16:35 [478/873] LOVO / PMID 29875662 / fulltext / 9435 words
+12:16:35   Title: Bax/Tubulin/Epithelial-Mesenchymal Pathways Determine the Ef
+12:16:44   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:16:44 [479/873] LOVO / PMID 32033751 / abstract / 188 words
+12:16:44   Title: ADAMTS8 is frequently down-regulated in colorectal cancer an
+12:16:49   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:16:49 [480/873] SW1417 / PMID 36808265 / fulltext / 11882 words
+12:16:49   Title: Novel read through agent: ZKN-0013 demonstrates efficacy in 
+12:16:59   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:16:59   [checkpoint] saved 480 annotations so far
+12:16:59 [481/873] LS1034 / PMID 40295067 / abstract / 338 words
+12:16:59   Title: SH003 Inhibits Proliferation and Induces Apoptosis in Colon 
+12:17:05   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:17:05 [482/873] LS1034 / PMID 8645306 / abstract / 131 words
+12:17:05   Title: Differential effect of interleukin-4 and transforming growth
+12:17:09   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:17:09 [483/873] HCT116 / PMID 34288067 / abstract / 117 words
+12:17:09   Title: Retraction.
+12:17:13   amp=NO oe=NO dep=NO exp=YES kd=NO conf=90
+12:17:13 [484/873] HCT116 / PMID 36403742 / abstract / 478 words
+12:17:13   Title: A network pharmacology approach and experimental validation 
+12:17:19   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:17:19 [485/873] HCT116 / PMID 40698149 / fulltext / 10044 words
+12:17:19   Title: Design, synthesis, and antitumor activity of novel thioheter
+12:17:28   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:17:28 [486/873] HCT116 / PMID 39128702 / fulltext / 6909 words
+12:17:28   Title: NDRG1 enhances the sensitivity to Cetuximab by promoting Sta
+12:17:37   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:17:37 [487/873] HCT116 / PMID 39437684 / abstract / 341 words
+12:17:37   Title: Yes-associated protein indispensably mediates hirsutine-indu
+12:17:43   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:17:43 [488/873] HCT116 / PMID 41343117 / fulltext / 416 words
+12:17:43   Title: Inhibition of MID1IP1 induces ferroptosis and suppresses c-M
+12:17:48   amp=NO oe=NO dep=NO exp=NA kd=NA conf=100
+12:17:48 [489/873] HCT116 / PMID 40716096 / fulltext / 6677 words
+12:17:48   Title: YTHDF2 alleviates the radioresistance of rectal cancer cells
+12:17:57   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:17:57 [490/873] HCT116 / PMID 40104705 / fulltext / 6107 words
+12:17:57   Title: FAM60A promotes proliferation and invasion of colorectal can
+12:18:07   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:18:07   [checkpoint] saved 490 annotations so far
+12:18:07 [491/873] HCT116 / PMID 32104496 / fulltext / 5493 words
+12:18:07   Title: The c-Myc/miR-27b-3p/ATG10 regulatory axis regulates chemore
+12:18:16   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:18:16 [492/873] COLO201 / PMID 8823991 / abstract / 332 words
+12:18:16   Title: Correlation between c-myc protein expression and phases of t
+12:18:22   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+12:18:22 [493/873] COLO201 / PMID 10660115 / abstract / 196 words
+12:18:22   Title: Differential effects of retinoic acid on growth and apoptosi
+12:18:27   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+12:18:27 [494/873] SW948 / PMID 22807617 / fulltext / 981 words
+12:18:27   Title: Phosphoinositide-3-kinase, catalytic, alpha polypeptide RNA 
+12:18:36   amp=NO oe=NO dep=YES exp=YES kd=NA conf=95
+12:18:36 [495/873] SW626 / PMID 36346016 / abstract / 243 words
+12:18:36   Title: Fraxetin suppresses the proliferation, migration, and invasi
+12:18:41   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:18:41 [496/873] SW626 / PMID 27718127 / abstract / 198 words
+12:18:41   Title: Rab14 is overexpressed in ovarian cancers and promotes ovari
+12:18:45   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:18:45 [497/873] NCIH508 / PMID 40295067 / abstract / 338 words
+12:18:45   Title: SH003 Inhibits Proliferation and Induces Apoptosis in Colon 
+12:18:50   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:18:50 [498/873] SW1116 / PMID 15667553 / abstract / 157 words
+12:18:50   Title: Experimental study of the killing effects of oxymatrine on h
+12:18:54   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:18:54 [499/873] SW1116 / PMID 15225415 / abstract / 252 words
+12:18:54   Title: Epigenetic modification regulates both expression of tumor-a
+12:18:58   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:18:58 [500/873] SW1116 / PMID 9494542 / abstract / 155 words
+12:18:58   Title: Phosphorothioated antisense c-myc oligonucleotide inhibits t
+12:19:03   amp=NO oe=NO dep=YES exp=YES kd=YES conf=80
+12:19:03   [checkpoint] saved 500 annotations so far
+12:19:03 [501/873] SW1116 / PMID 22180714 / fulltext / 475 words
+12:19:03   Title: miR-93 suppresses proliferation and colony formation of huma
+12:19:08   amp=NO oe=NO dep=NO exp=YES kd=NA conf=100
+12:19:08 [502/873] SW1116 / PMID 22294162 / fulltext / 2860 words
+12:19:08   Title: Oridonin induces apoptosis and senescence by increasing hydr
+12:19:17   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:19:17 [503/873] SW1116 / PMID 12970888 / fulltext / 404 words
+12:19:17   Title: Effects of DNA methylation on expression of tumor suppressor
+12:19:24   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:19:24 [504/873] SW1116 / PMID 7794080 / fulltext / 568 words
+12:19:24   Title: Colon cancer cells that are not growth inhibited by TGF-beta
+12:19:29   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:19:29 [505/873] SW1116 / PMID 17650425 / abstract / 305 words
+12:19:29   Title: [Effects of extracellular signal-regulated kinase/mitogen-ac
+12:19:34   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:19:34 [506/873] SW1116 / PMID 29844682 / fulltext / 2373 words
+12:19:34   Title: NDRG3 facilitates colorectal cancer metastasis through activ
+12:19:45   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:19:45 [507/873] SW1116 / PMID 21054888 / fulltext / 4477 words
+12:19:45   Title: Oridonin induces apoptosis and senescence in colorectal canc
+12:19:54   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:19:54 [508/873] SW1116 / PMID 16157026 / abstract / 331 words
+12:19:54   Title: Experimental study on anti-neoplastic activity of epigalloca
+12:20:00   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:20:00 [509/873] SW1116 / PMID 29949151 / fulltext / 309 words
+12:20:00   Title: The long noncoding RNA BC0209135 inhibits the cell invasion 
+12:20:05   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:20:05 [510/873] CACO2 / PMID 36568939 / fulltext / 5356 words
+12:20:05   Title: N-myc downstream regulated gene 1 inhibition of tumor progre
+12:20:17   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:20:17   [checkpoint] saved 510 annotations so far
+12:20:17 [511/873] CACO2 / PMID 35120580 / fulltext / 2139 words
+12:20:17   Title: Cordycepin inhibits colon cancer proliferation by suppressin
+12:20:26   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:20:26 [512/873] CACO2 / PMID 32394730 / abstract / 251 words
+12:20:26   Title: P38-β/SAPK-inhibiting and apoptosis-inducing activities of (
+12:20:32   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:20:32 [513/873] CACO2 / PMID 37407874 / fulltext / 6283 words
+12:20:32   Title: Functional Analysis and Clinical Importance of ATP1A1 in Col
+12:20:41   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:20:41 [514/873] CACO2 / PMID 37666882 / fulltext / 5736 words
+12:20:41   Title: Anti-proliferative activity, molecular genetics, docking ana
+12:20:50   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:20:50 [515/873] CACO2 / PMID 30668330 / abstract / 233 words
+12:20:50   Title: Physciosporin suppresses the proliferation, motility and tum
+12:20:56   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:20:56 [516/873] CACO2 / PMID 40717437 / abstract / 286 words
+12:20:56   Title: SOX9 siRNA Loaded Lipid Nanoparticles Actively Targeted: For
+12:21:01   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:21:01 [517/873] CACO2 / PMID 41373021 / fulltext / 5134 words
+12:21:01   Title: A core stemness-associated module reveals PLK1, NUF2, KIF23,
+12:21:11   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:21:11 [518/873] CACO2 / PMID 36244535 / abstract / 202 words
+12:21:11   Title: Anti-proliferative action, molecular investigation and compu
+12:21:16   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:21:16 [519/873] CACO2 / PMID 30655753 / fulltext / 2998 words
+12:21:16   Title: Lentiviral vector-mediated IL-9 overexpression stimulates ce
+12:21:25   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:21:25 [520/873] CACO2 / PMID 14739857 / abstract / 208 words
+12:21:25   Title: Taurodeoxycholate increases intestinal epithelial cell proli
+12:21:31   amp=NO oe=YES dep=YES exp=YES kd=NA conf=95
+12:21:31   [checkpoint] saved 520 annotations so far
+12:21:31 [521/873] C10 / PMID 31216504 / abstract / 284 words
+12:21:31   Title: Synthesis of novel S-linked dihydroartemisinin derivatives a
+12:21:36   amp=NO oe=NO dep=NO exp=NA kd=NA conf=100
+12:21:36 [522/873] C10 / PMID 2050037 / abstract / 225 words
+12:21:36   Title: Expression of the glucocorticoid receptor and K-ras genes in
+12:21:41   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:21:41 [523/873] C10 / PMID 1879973 / abstract / 220 words
+12:21:41   Title: Tumoricidal alveolar macrophage and tumor infiltrating macro
+12:21:45   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:21:45 [524/873] C10 / PMID 29990873 / abstract / 218 words
+12:21:45   Title: A novel synthesized 3', 5'-diprenylated chalcone mediates th
+12:21:49   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:21:49 [525/873] C10 / PMID 12154082 / abstract / 321 words
+12:21:49   Title: The C-terminal IgI domains of myosin-binding proteins C and 
+12:21:54   amp=NO oe=NO dep=NO exp=YES kd=NO conf=100
+12:21:54 [526/873] AU565 / PMID 38766835 / fulltext / 3613 words
+12:21:54   Title: Antidepressant Sertraline Hydrochloride Inhibits the Growth 
+12:22:03   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:22:03 [527/873] AU565 / PMID 38677505 / abstract / 224 words
+12:22:03   Title: LncRNA DLG5-AS1 facilitates breast cancer cell proliferation
+12:22:09   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:22:09 [528/873] AU565 / PMID 9877030 / abstract / 154 words
+12:22:09   Title: Inhibition of cell proliferation by 17beta-estradiol and her
+12:22:13   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:22:13 [529/873] AU565 / PMID 32746451 / fulltext / 4305 words
+12:22:13   Title: Antipsychotics drug aripiprazole as a lead against breast ca
+12:22:23   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:22:23 [530/873] SUM159PT / PMID 40114244 / fulltext / 7627 words
+12:22:23   Title: CircPVT1 weakens miR-33a-5p unleashing the c-MYC/GLS1 metabo
+12:22:32   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:22:32   [checkpoint] saved 530 annotations so far
+12:22:32 [531/873] SUM159PT / PMID 29182685 / fulltext / 3738 words
+12:22:32   Title: miR205 inhibits stem cell renewal in SUM159PT breast cancer 
+12:22:42   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:22:42 [532/873] SUM159PT / PMID 30289427 / abstract / 143 words
+12:22:42   Title: Bcl-3 promotes proliferation and chemosensitivity in BL1 sub
+12:22:48   amp=NO oe=NO dep=NO exp=YES kd=NA conf=50
+12:22:48 [533/873] MDAMB436 / PMID 33832512 / fulltext / 8005 words
+12:22:48   Title: Efficacy and mechanism of the combination of PARP and CDK4/6
+12:23:00   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:23:00 [534/873] MDAMB436 / PMID 39632755 / fulltext / 6971 words
+12:23:00   Title: Design, Screening and Development of Asymmetric siRNAs Targe
+12:23:09   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:23:09 [535/873] MDAMB436 / PMID 41814766 / abstract / 351 words
+12:23:09   Title: [Sculponeatin A inhibits growth and induces apoptosis of tri
+12:23:16   amp=NO oe=YES dep=YES exp=YES kd=NA conf=95
+12:23:16 [536/873] MDAMB436 / PMID 11343771 / abstract / 194 words
+12:23:16   Title: Aberrations of chromosome 8 in 16 breast cancer cell lines b
+12:23:20   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+12:23:20 [537/873] MDAMB436 / PMID 39018748 / abstract / 244 words
+12:23:20   Title: Co-targeting CDK 4/6 and C-MYC/STAT3/CCND1 axis and inhibiti
+12:23:25   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:23:25 [538/873] MDAMB436 / PMID 25485498 / fulltext / 452 words
+12:23:25   Title: Inhibition of CDK-mediated phosphorylation of Smad3 results 
+12:23:31   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:23:31 [539/873] MDAMB231 / PMID 37935302 / abstract / 515 words
+12:23:31   Title: Transcriptional regulation of amino acid metabolism by KDM2B
+12:23:37   amp=NO oe=YES dep=NO exp=YES kd=YES conf=80
+12:23:37 [540/873] MDAMB231 / PMID 33275307 / fulltext / 3195 words
+12:23:37   Title: Gold-Based Pharmacophore Inhibits Intracellular MYC Protein.
+12:23:47   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:23:47   [checkpoint] saved 540 annotations so far
+12:23:47 [541/873] MDAMB231 / PMID 36627007 / abstract / 270 words
+12:23:47   Title: SCAMP3 promotes breast cancer progression through the c-MYC-
+12:23:53   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:23:53 [542/873] MDAMB231 / PMID 36930677 / fulltext / 12543 words
+12:23:53   Title: TXNIP loss expands Myc-dependent transcriptional programs by
+12:24:02   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:24:02 [543/873] MDAMB231 / PMID 34991410 / fulltext / 4807 words
+12:24:02   Title: Investigation of Chemopreventive and Antiproliferative Poten
+12:24:12   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:24:12 [544/873] MDAMB231 / PMID 39706891 / fulltext / 9763 words
+12:24:12   Title: CBL0137 and NKG2A blockade: a novel immuno-oncology combinat
+12:24:23   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:24:23 [545/873] MDAMB231 / PMID 37118982 / abstract / 255 words
+12:24:23   Title: The effects of MYC on exosomes derived from cancer cells in 
+12:24:29   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+12:24:29 [546/873] MDAMB231 / PMID 19358268 / abstract / 197 words
+12:24:29   Title: Nmi (N-Myc interactor) inhibits Wnt/beta-catenin signaling a
+12:24:34   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+12:24:34 [547/873] MDAMB231 / PMID 38499995 / abstract / 151 words
+12:24:34   Title: Bone Endosteal Mimics Regulates Breast Cancer Development an
+12:24:39   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:24:39 [548/873] MDAMB231 / PMID 40640173 / fulltext / 6444 words
+12:24:39   Title: Exploring ID4 as a driver of aggression and a therapeutic ta
+12:24:48   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:24:48 [549/873] MDAMB231 / PMID 35966578 / fulltext / 5764 words
+12:24:48   Title: Lipid phosphate phosphatase-2 promotes tumor growth through 
+12:24:59   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:24:59 [550/873] MDAMB231 / PMID 39631207 / fulltext / 14290 words
+12:24:59   Title: Indirect targeting of MYC and direct targeting in combinatio
+12:25:09   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:25:09   [checkpoint] saved 550 annotations so far
+12:25:09 [551/873] MDAMB231 / PMID 39267538 / abstract / 366 words
+12:25:09   Title: The role of RRS1 in breast cancer cells metastasis and AEG-1
+12:25:17   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:25:17 [552/873] MDAMB231 / PMID 35382692 / abstract / 232 words
+12:25:17   Title: The role of microRNA-4723-5p regulated by c-myc in triple-ne
+12:25:22   amp=NO oe=NO dep=YES exp=YES kd=YES conf=80
+12:25:22 [553/873] MDAMB231 / PMID 37589934 / fulltext / 3763 words
+12:25:22   Title: Effects of bromodomain and extra-terminal inhibitor JQ1 and 
+12:25:32   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:25:32 [554/873] MDAMB231 / PMID 37570631 / fulltext / 8091 words
+12:25:32   Title: Modes of Action of a Novel c-MYC Inhibiting 1,2,4-Oxadiazole
+12:25:41   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:25:41 [555/873] MDAMB231 / PMID 30684465 / abstract / 199 words
+12:25:41   Title: Betulinic acid suppresses breast cancer aerobic glycolysis v
+12:25:47   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:25:47 [556/873] BT549 / PMID 39267538 / abstract / 366 words
+12:25:47   Title: The role of RRS1 in breast cancer cells metastasis and AEG-1
+12:25:53   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:25:53 [557/873] BT549 / PMID 35179222 / fulltext / 4214 words
+12:25:53   Title: Downregulated RRS1 inhibits invasion and metastasis of BT549
+12:26:02   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:26:02 [558/873] BT549 / PMID 34895159 / fulltext / 3529 words
+12:26:02   Title: MiR-26b-5p inhibits cell proliferation and EMT by targeting 
+12:26:11   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:26:11 [559/873] BT549 / PMID 37533352 / fulltext / 12358 words
+12:26:11   Title: Fragment-based design, synthesis and biological evaluation o
+12:26:22   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:26:22 [560/873] BT549 / PMID 31897227 / fulltext / 3755 words
+12:26:22   Title: Long Noncoding RNA DCST1-AS1 Promotes Cell Proliferation and
+12:26:34   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:26:34   [checkpoint] saved 560 annotations so far
+12:26:34 [561/873] BT549 / PMID 34683150 / fulltext / 3830 words
+12:26:34   Title: PRMT1 Confers Resistance to Olaparib via Modulating MYC Sign
+12:26:43   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:26:43 [562/873] BT549 / PMID 23762292 / fulltext / 6943 words
+12:26:43   Title: Deguelin action involves c-Met and EGFR signaling pathways i
+12:26:53   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:26:53 [563/873] BT549 / PMID 33626175 / abstract / 134 words
+12:26:53   Title: The chromatin modifier MORC2 affects glucose metabolism by r
+12:26:58   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:26:58 [564/873] BT549 / PMID 40311680 / fulltext / 8333 words
+12:26:58   Title: MYC controls STING levels to downregulate inflammatory signa
+12:27:08   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:27:08 [565/873] BT549 / PMID 26236947 / abstract / 247 words
+12:27:08   Title: AMPK inhibits MTDH expression via GSK3β and SIRT1 activation
+12:27:14   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:27:14 [566/873] BT549 / PMID 41516003 / abstract / 193 words
+12:27:14   Title: Metronomic 5-Fluorouracil and Vinorelbine Reduce Cancer Stem
+12:27:18   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:27:18 [567/873] BT549 / PMID 34976812 / fulltext / 5938 words
+12:27:18   Title: SIPL1, Regulated by MAZ, Promotes Tumor Progression and Pred
+12:27:27   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:27:27 [568/873] BT549 / PMID 28819383 / fulltext / 4405 words
+12:27:27   Title: Metformin Inhibits Tumorigenesis and Tumor Growth of Breast 
+12:27:37   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:27:37 [569/873] BT549 / PMID 22203435 / fulltext / 6883 words
+12:27:37   Title: Antitumor effects of cytoplasmic delivery of an innate adjuv
+12:27:46   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:27:46 [570/873] BT549 / PMID 11343771 / abstract / 194 words
+12:27:46   Title: Aberrations of chromosome 8 in 16 breast cancer cell lines b
+12:27:52   amp=NO oe=YES dep=NO exp=NA kd=NA conf=80
+12:27:52   [checkpoint] saved 570 annotations so far
+12:27:52 [571/873] BT549 / PMID 18059185 / abstract / 247 words
+12:27:52   Title: Response and determinants of cancer cell susceptibility to P
+12:27:57   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:27:57 [572/873] BT549 / PMID 30300682 / abstract / 211 words
+12:27:57   Title: LGR5 acts as a target of miR-340-5p in the suppression of ce
+12:28:01   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:28:01 [573/873] BT549 / PMID 34703883 / fulltext / 5257 words
+12:28:01   Title: Transcriptional landscape associated with TNBC resistance to
+12:28:12   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:28:12 [574/873] BT549 / PMID 25016158 / abstract / 150 words
+12:28:12   Title: Triple negative breast cancer therapy with CDK1 siRNA delive
+12:28:19   amp=NO oe=YES dep=YES exp=YES kd=NO conf=90
+12:28:19 [575/873] MCF7 / PMID 39468555 / fulltext / 8794 words
+12:28:19   Title: Transcriptional responses to direct and indirect TGFB1 stimu
+12:28:28   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:28:28 [576/873] MCF7 / PMID 29555554 / abstract / 168 words
+12:28:28   Title: Timeless Is a Novel Estrogen Receptor Co-activator Involved 
+12:28:33   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:28:33 [577/873] MCF7 / PMID 34991410 / fulltext / 4807 words
+12:28:33   Title: Investigation of Chemopreventive and Antiproliferative Poten
+12:28:44   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:28:44 [578/873] MCF7 / PMID 17052904 / abstract / 234 words
+12:28:44   Title: c-Myc overexpression and endocrine resistance in breast canc
+12:28:50   amp=NO oe=YES dep=NO exp=YES kd=NA conf=95
+12:28:50 [579/873] MCF7 / PMID 37118982 / abstract / 255 words
+12:28:50   Title: The effects of MYC on exosomes derived from cancer cells in 
+12:28:55   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+12:28:55 [580/873] MCF7 / PMID 32810332 / fulltext / 3863 words
+12:28:55   Title: MYC-binding lncRNA EPIC1 promotes AKT-mTORC1 signaling and r
+12:29:05   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:29:05   [checkpoint] saved 580 annotations so far
+12:29:05 [581/873] MCF7 / PMID 33391729 / fulltext / 6590 words
+12:29:05   Title: Anti- c-myc cholesterol based lipoplexes as onco-nanotherape
+12:29:19   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:29:19 [582/873] MCF7 / PMID 20046830 / fulltext / 6173 words
+12:29:19   Title: Mechanisms of c-myc degradation by nickel compounds and hypo
+12:29:28   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:29:28 [583/873] MCF7 / PMID 26719542 / abstract / 169 words
+12:29:28   Title: HBXIP and LSD1 Scaffolded by lncRNA Hotair Mediate Transcrip
+12:29:34   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+12:29:34 [584/873] MCF7 / PMID 37589934 / fulltext / 3763 words
+12:29:34   Title: Effects of bromodomain and extra-terminal inhibitor JQ1 and 
+12:29:43   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:29:43 [585/873] MCF7 / PMID 27517632 / fulltext / 3335 words
+12:29:43   Title: Anti-miR-203 suppresses ER-positive breast cancer growth and
+12:29:56   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:29:56 [586/873] MCF7 / PMID 30684465 / abstract / 199 words
+12:29:56   Title: Betulinic acid suppresses breast cancer aerobic glycolysis v
+12:30:01   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:30:01 [587/873] MCF7 / PMID 33544209 / fulltext / 754 words
+12:30:01   Title: Honokiol antagonizes doxorubicin resistance in human breast 
+12:30:07   amp=NO oe=NO dep=NO exp=YES kd=NA conf=50
+12:30:07 [588/873] MCF7 / PMID 37519063 / fulltext / 9092 words
+12:30:07   Title: CRISPR/Cas9 screen for genome-wide interrogation of essentia
+12:30:19   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:30:19 [589/873] MCF7 / PMID 36639831 / fulltext / 7065 words
+12:30:19   Title: Small molecule Z363 co-regulates TAF10 and MYC via the E3 li
+12:30:28   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:30:28 [590/873] SKBR3 / PMID 35117359 / fulltext / 2938 words
+12:30:28   Title: Honokiol inhibits the growth of SKBR3 cells.
+12:30:37   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:30:37   [checkpoint] saved 590 annotations so far
+12:30:37 [591/873] SKBR3 / PMID 33621883 / abstract / 196 words
+12:30:37   Title: Molecular mechanism study of BPAF-induced proliferation of E
+12:30:43   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:30:43 [592/873] SKBR3 / PMID 35269680 / fulltext / 6043 words
+12:30:43   Title: Effects of Ruxolitinib and Calcitriol Combination Treatment 
+12:30:53   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:30:53 [593/873] SKBR3 / PMID 31744448 / fulltext / 2857 words
+12:30:53   Title: CDK12 Promotes Breast Cancer Progression and Maintains Stemn
+12:31:02   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:31:02 [594/873] SKBR3 / PMID 9000576 / abstract / 172 words
+12:31:02   Title: Defects in p21WAF1/CIP1, Rb, and c-myc signaling in phorbol 
+12:31:07   amp=NO oe=NO dep=YES exp=YES kd=NA conf=95
+12:31:07 [595/873] SKBR3 / PMID 10319992 / abstract / 178 words
+12:31:07   Title: Overexpression of c-Myc inhibits p21WAF1/CIP1 expression and
+12:31:13   amp=NO oe=YES dep=NO exp=YES kd=NA conf=90
+12:31:13 [596/873] SKBR3 / PMID 26958811 / fulltext / 6869 words
+12:31:13   Title: A combination of trastuzumab and BAG-1 inhibition synergisti
+12:31:25   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:31:25 [597/873] SKBR3 / PMID 21614210 / fulltext / 3457 words
+12:31:25   Title: Antiproliferative effects of cucurbitacin B in breast cancer
+12:31:35   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:31:35 [598/873] SKBR3 / PMID 23647160 / fulltext / 5535 words
+12:31:35   Title: Genome wide proteomics of ERBB2 and EGFR and other oncogenic
+12:31:44   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:31:44 [599/873] SKBR3 / PMID 26497855 / fulltext / 5449 words
+12:31:44   Title: MicroRNA-1 down-regulates proliferation and migration of bre
+12:31:54   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:31:54 [600/873] HCC1954 / PMID 35078507 / fulltext / 5163 words
+12:31:54   Title: KRT13 promotes stemness and drives metastasis in breast canc
+12:32:03   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:32:03   [checkpoint] saved 600 annotations so far
+12:32:03 [601/873] HCC1954 / PMID 30467396 / fulltext / 5536 words
+12:32:03   Title: Effects of Modulating Actin Dynamics on HER2 Cancer Cell Mot
+12:32:13   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:32:13 [602/873] HCC1954 / PMID 28231748 / abstract / 185 words
+12:32:13   Title: Aloe-Emodin Enhances Tamoxifen Cytotoxicity by Suppressing R
+12:32:19   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:32:19 [603/873] KPL1 / PMID 7710953 / fulltext / 7011 words
+12:32:19   Title: A new human breast cancer cell line, KPL-1 secretes tumour-a
+12:32:28   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:32:28 [604/873] MDAMB453 / PMID 39588561 / fulltext / 6844 words
+12:32:28   Title: Targeting CDK7 Enhances the Antitumor Efficacy of Enzalutami
+12:32:42   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:32:42 [605/873] MDAMB453 / PMID 27003255 / abstract / 170 words
+12:32:42   Title: MiR-30a-5p/UBE3C axis regulates breast cancer cell prolifera
+12:32:48   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:32:48 [606/873] MDAMB453 / PMID 32904790 / fulltext / 3275 words
+12:32:48   Title: ADAMTS8 Inhibits Cell Proliferation and Invasion, and Induce
+12:32:57   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:32:57 [607/873] MDAMB453 / PMID 40188858 / abstract / 262 words
+12:32:57   Title: Transcriptomic analysis of digitoxin: Synergy with doxorubic
+12:33:03   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:33:03 [608/873] MDAMB453 / PMID 25261647 / abstract / 175 words
+12:33:03   Title: Emodin azide methyl anthraquinone derivative induced G0/ G1 
+12:33:07   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:33:07 [609/873] MDAMB453 / PMID 32207090 / fulltext / 7133 words
+12:33:07   Title: Aloe emodin inhibits telomerase activity in breast cancer ce
+12:33:17   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:33:17 [610/873] MDAMB453 / PMID 9674697 / abstract / 319 words
+12:33:17   Title: Scatter factor protects epithelial and carcinoma cells again
+12:33:23   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:33:23   [checkpoint] saved 610 annotations so far
+12:33:23 [611/873] MDAMB453 / PMID 33542902 / fulltext / 5538 words
+12:33:23   Title: Silencing of KIF3B Suppresses Breast Cancer Progression by R
+12:33:33   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:33:33 [612/873] MDAMB453 / PMID 36770598 / fulltext / 4219 words
+12:33:33   Title: Wnt Signaling Pathway Collapse upon β-Catenin Destruction by
+12:33:44   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:33:44 [613/873] MDAMB453 / PMID 31248140 / fulltext / 2769 words
+12:33:44   Title: Suppression of STAT3 Phosphorylation and RelA/p65 Acetylatio
+12:33:54   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:33:54 [614/873] MDAMB453 / PMID 32595497 / fulltext / 10020 words
+12:33:54   Title: Exploring the Regulation Mechanism of Xihuang Pill, Olibanum
+12:34:03   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:34:03 [615/873] MDAMB453 / PMID 41015102 / abstract / 251 words
+12:34:03   Title: Kobochromone A, a polyphenol in Carex kobomugi, suppresses a
+12:34:09   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:34:09 [616/873] MDAMB453 / PMID 41679198 / abstract / 246 words
+12:34:09   Title: Synthesis of potent human DHRS11 inhibitors and their effica
+12:34:14   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:34:14 [617/873] MDAMB453 / PMID 31975484 / fulltext / 551 words
+12:34:14   Title: Overcoming tamoxifen resistance in oestrogen receptor-positi
+12:34:21   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:34:21 [618/873] MDAMB453 / PMID 8707422 / abstract / 178 words
+12:34:21   Title: Oncogene expression is modulated by recombinant human interf
+12:34:26   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:34:26 [619/873] MDAMB453 / PMID 16923617 / abstract / 215 words
+12:34:26   Title: In vitro effects of bovine dialyzable leukocyte extract (bDL
+12:34:30   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:34:30 [620/873] MDAMB453 / PMID 28137659 / abstract / 124 words
+12:34:30   Title: Smuggling gold nanoparticles across cell types - A new role 
+12:34:35   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+12:34:35   [checkpoint] saved 620 annotations so far
+12:34:35 [621/873] SUM149PT / PMID 39258222 / fulltext / 4072 words
+12:34:35   Title: Synergistic Effect of Ubiquitin-Specific Protease 14 and Pol
+12:34:44   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:34:44 [622/873] SUM149PT / PMID 26608463 / fulltext / 8044 words
+12:34:44   Title: Osteoprotegerin secreted by inflammatory and invasive breast
+12:34:54   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:34:54 [623/873] T47D / PMID 40898325 / fulltext / 10727 words
+12:34:54   Title: ATE1 promotes breast cancer progression via arginylation-dep
+12:35:03   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:35:03 [624/873] T47D / PMID 7962462 / abstract / 154 words
+12:35:03   Title: Regulation of gene expression in T-47D human breast cancer c
+12:35:08   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:35:08 [625/873] T47D / PMID 30989585 / fulltext / 2892 words
+12:35:08   Title: PIM1 is responsible for IL-6-induced breast cancer cell EMT 
+12:35:17   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:35:17 [626/873] T47D / PMID 35583188 / abstract / 245 words
+12:35:17   Title: MEN1 silencing triggers the dysregulation of mTORC1 and MYC 
+12:35:23   amp=NO oe=NO dep=NO exp=YES kd=YES conf=80
+12:35:23 [627/873] T47D / PMID 24051023 / abstract / 233 words
+12:35:23   Title: Physalin F from Physalis minima L. triggers apoptosis-based 
+12:35:28   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:35:28 [628/873] T47D / PMID 8497271 / fulltext / 394 words
+12:35:28   Title: Growth factor, steroid, and steroid antagonist regulation of
+12:35:33   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:35:33 [629/873] T47D / PMID 40708058 / fulltext / 3264 words
+12:35:33   Title: The potential mechanism of Saikosaponin D against luminal A 
+12:35:42   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:35:42 [630/873] T47D / PMID 20150224 / abstract / 160 words
+12:35:42   Title: Apoptotic effects of Physalis minima L. chloroform extract i
+12:35:48   amp=NO oe=YES dep=YES exp=YES kd=NA conf=80
+12:35:48   [checkpoint] saved 630 annotations so far
+12:35:48 [631/873] T47D / PMID 38426579 / fulltext / 5790 words
+12:35:48   Title: Cytoplasmic localization of SETDB1‑induced Warburg effect vi
+12:35:58   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:35:58 [632/873] T47D / PMID 15619555 / abstract / 163 words
+12:35:58   Title: Growth arrest and non-apoptotic programmed cell death associ
+12:36:05   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:36:05 [633/873] T47D / PMID 36420790 / abstract / 234 words
+12:36:05   Title: Quantitative flow cytometry leveraging droplet-based constri
+12:36:09   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:36:09 [634/873] T47D / PMID 36042494 / fulltext / 9039 words
+12:36:09   Title: S6K1 amplification confers innate resistance to CDK4/6 inhib
+12:36:18   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:36:18 [635/873] T47D / PMID 23770854 / fulltext / 4584 words
+12:36:18   Title: Loss of N-Myc interactor promotes epithelial-mesenchymal tra
+12:36:28   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:36:28 [636/873] T47D / PMID 23145106 / fulltext / 7587 words
+12:36:28   Title: Cohesin is required for activation of MYC by estradiol.
+12:36:37   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:36:37 [637/873] T47D / PMID 37860544 / fulltext / 4139 words
+12:36:37   Title: Knockdown of LINC00702 inhibits the growth and induces apopt
+12:36:46   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:36:46 [638/873] T47D / PMID 11355743 / abstract / 207 words
+12:36:46   Title: Gene amplification and expression of the steroid receptor co
+12:36:52   amp=NO oe=NO dep=NO exp=YES kd=NA conf=100
+12:36:52 [639/873] T47D / PMID 18550772 / fulltext / 454 words
+12:36:52   Title: Signal transducer and activator of transcription 5b, c-Src, 
+12:36:57   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:36:57 [640/873] T47D / PMID 9652748 / abstract / 286 words
+12:36:57   Title: Inhibition of the MAP kinase cascade blocks heregulin-induce
+12:37:02   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:37:02   [checkpoint] saved 640 annotations so far
+12:37:02 [641/873] T47D / PMID 37436061 / abstract / 235 words
+12:37:02   Title: Loss of miR-6844 alters stemness/self-renewal and cancer hal
+12:37:06   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:37:06 [642/873] UACC893 / PMID 11343771 / abstract / 194 words
+12:37:06   Title: Aberrations of chromosome 8 in 16 breast cancer cell lines b
+12:37:11   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+12:37:11 [643/873] HCC1428 / PMID 26116361 / abstract / 255 words
+12:37:11   Title: AKT Antagonist AZD5363 Influences Estrogen Receptor Function
+12:37:15   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:37:15 [644/873] HCC1143 / PMID 35837063 / fulltext / 4730 words
+12:37:15   Title: 3-Bromopyruvic acid regulates glucose metabolism by targetin
+12:37:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:37:24 [645/873] HCC1569 / PMID 20836878 / fulltext / 6034 words
+12:37:24   Title: t-DARPP regulates phosphatidylinositol-3-kinase-dependent ce
+12:37:33   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:37:33 [646/873] CAL51 / PMID 30066852 / fulltext / 4976 words
+12:37:33   Title: Upregulation of PD‑L1 expression by resveratrol and piceatan
+12:37:42   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:37:42 [647/873] HCC1937 / PMID 33832512 / fulltext / 8005 words
+12:37:42   Title: Efficacy and mechanism of the combination of PARP and CDK4/6
+12:37:52   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:37:52 [648/873] HCC1937 / PMID 33850556 / fulltext / 3216 words
+12:37:52   Title: Diclofenac impairs the proliferation and glucose metabolism 
+12:38:01   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:38:01 [649/873] HCC1937 / PMID 39672097 / fulltext / 6497 words
+12:38:01   Title: circUBR5 promotes ribosome biogenesis and induces docetaxel 
+12:38:10   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:38:10 [650/873] HCC1937 / PMID 39258222 / fulltext / 4072 words
+12:38:10   Title: Synergistic Effect of Ubiquitin-Specific Protease 14 and Pol
+12:38:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:38:21   [checkpoint] saved 650 annotations so far
+12:38:21 [651/873] HCC1937 / PMID 23158280 / abstract / 265 words
+12:38:21   Title: [Regulation of p14(ARF) expression and induction of cell apo
+12:38:27   amp=NO oe=YES dep=NO exp=YES kd=NA conf=95
+12:38:27 [652/873] HCC1937 / PMID 35761807 / fulltext / 3134 words
+12:38:27   Title: GRWD1 affects the proliferation, apoptosis, invasion and mig
+12:38:36   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:38:36 [653/873] HCC1937 / PMID 30655867 / fulltext / 3933 words
+12:38:36   Title: p53-independent role of MYC mutant T58A in the proliferation
+12:38:46   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:38:46 [654/873] HCC1937 / PMID 35251343 / fulltext / 3119 words
+12:38:46   Title: KIF18B promotes breast cancer cell proliferation, migration 
+12:38:56   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:38:56 [655/873] HCC1937 / PMID 27935867 / fulltext / 6890 words
+12:38:56   Title: The bromodomain inhibitor OTX015 (MK-8628) exerts anti-tumor
+12:39:05   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:39:05 [656/873] HCC1937 / PMID 41422484 / abstract / 236 words
+12:39:05   Title: LAT1/SLC7A5-mediated amino acid uptake is regulated by redox
+12:39:11   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:39:11 [657/873] HCC1937 / PMID 40730501 / fulltext / 3766 words
+12:39:11   Title: Bufalin Suppresses Triple-Negative Breast Cancer Stem Cell G
+12:39:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:39:21 [658/873] HCC1937 / PMID 34142686 / fulltext / 597 words
+12:39:21   Title: Multi-omics data integration reveals correlated regulatory f
+12:39:28   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:39:28 [659/873] HCC1937 / PMID 19882246 / fulltext / 7401 words
+12:39:28   Title: BRCA1 transcriptionally regulates genes associated with the 
+12:39:38   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:39:38 [660/873] HCC1937 / PMID 34215226 / fulltext / 5352 words
+12:39:38   Title: Breast cancer cell line toxicity of a flavonoid isolated fro
+12:39:47   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:39:47   [checkpoint] saved 660 annotations so far
+12:39:47 [661/873] HCC1937 / PMID 39507961 / fulltext / 1314 words
+12:39:47   Title: [DDX5-Targeting Fragile X Mental Retardation Protein Regulat
+12:39:56   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:39:56 [662/873] ZR751 / PMID 25135691 / fulltext / 4614 words
+12:39:56   Title: Cephalotaxus griffithii Hook.f. needle extract induces cell 
+12:40:05   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:40:05 [663/873] MDAMB361 / PMID 23117580 / fulltext / 405 words
+12:40:05   Title: Modifying metabolically sensitive histone marks by inhibitin
+12:40:11   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:40:11 [664/873] MDAMB361 / PMID 26986571 / fulltext / 3005 words
+12:40:11   Title: Anticancer effect of metformin on estrogen receptor-positive
+12:40:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:40:21 [665/873] MDAMB361 / PMID 11343771 / abstract / 194 words
+12:40:21   Title: Aberrations of chromosome 8 in 16 breast cancer cell lines b
+12:40:27   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+12:40:27 [666/873] HCC2218 / PMID 18408767 / fulltext / 459 words
+12:40:27   Title: PCDH8, the human homolog of PAPC, is a candidate tumor suppr
+12:40:33   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:40:33 [667/873] JIMT1 / PMID 34215226 / fulltext / 5352 words
+12:40:33   Title: Breast cancer cell line toxicity of a flavonoid isolated fro
+12:40:42   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:40:42 [668/873] HS578T / PMID 35966578 / fulltext / 5764 words
+12:40:42   Title: Lipid phosphate phosphatase-2 promotes tumor growth through 
+12:40:52   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:40:52 [669/873] HS578T / PMID 40649917 / fulltext / 4826 words
+12:40:52   Title: JAK2 Inhibition Augments the Anti-Proliferation Effects by A
+12:41:04   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:41:04 [670/873] HS578T / PMID 16091746 / abstract / 243 words
+12:41:04   Title: The aryl hydrocarbon receptor constitutively represses c-myc
+12:41:10   amp=NO oe=YES dep=NO exp=YES kd=NO conf=90
+12:41:10   [checkpoint] saved 670 annotations so far
+12:41:10 [671/873] HS578T / PMID 39632755 / fulltext / 6971 words
+12:41:10   Title: Design, Screening and Development of Asymmetric siRNAs Targe
+12:41:19   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:41:19 [672/873] HS578T / PMID 11114727 / abstract / 205 words
+12:41:19   Title: The RelA NF-kappaB subunit and the aryl hydrocarbon receptor
+12:41:26   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:41:26 [673/873] HS578T / PMID 11313917 / abstract / 247 words
+12:41:26   Title: Repression of transcription of the p27(Kip1) cyclin-dependen
+12:41:31   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:41:31 [674/873] HS578T / PMID 41294378 / fulltext / 4752 words
+12:41:31   Title: rFIP-GMI Suppresses IGF-1-Induced Invasion and Migration in 
+12:41:40   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:41:40 [675/873] HS578T / PMID 20450732 / abstract / 300 words
+12:41:40   Title: [Vitexicarpin affects proliferation and apoptosis in mutated
+12:41:46   amp=NO oe=YES dep=YES exp=YES kd=NA conf=90
+12:41:46 [676/873] HS578T / PMID 28848040 / fulltext / 606 words
+12:41:46   Title: Noninvasive 89Zr-Transferrin PET Shows Improved Tumor Target
+12:41:53   amp=NO oe=YES dep=NO exp=YES kd=YES conf=80
+12:41:53 [677/873] HS578T / PMID 23117580 / fulltext / 405 words
+12:41:53   Title: Modifying metabolically sensitive histone marks by inhibitin
+12:41:58   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:41:58 [678/873] HS578T / PMID 30691241 / fulltext / 4719 words
+12:41:58   Title: Cadherin 11 Inhibition Downregulates β-catenin, Deactivates 
+12:42:07   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:42:07 [679/873] HS578T / PMID 41608656 / fulltext / 5183 words
+12:42:07   Title: Hypoxia facilitates triple-negative breast cancer stem cells
+12:42:16   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:42:16 [680/873] HS578T / PMID 41384861 / fulltext / 506 words
+12:42:16   Title: iRGD-engineered exosomes mediate siMYC delivery for effectiv
+12:42:24   amp=NO oe=YES dep=YES exp=YES kd=YES conf=95
+12:42:24   [checkpoint] saved 680 annotations so far
+12:42:24 [681/873] HS578T / PMID 9038615 / abstract / 166 words
+12:42:24   Title: Tumour necrosis factor and interferon are selectively cytost
+12:42:28   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:42:28 [682/873] HS578T / PMID 40657369 / fulltext / 3645 words
+12:42:28   Title: Radioresistant triple-negative breast cancer cells release β
+12:42:37   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:42:37 [683/873] HS578T / PMID 25485498 / fulltext / 452 words
+12:42:37   Title: Inhibition of CDK-mediated phosphorylation of Smad3 results 
+12:42:43   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:42:43 [684/873] HS578T / PMID 9719459 / abstract / 256 words
+12:42:43   Title: Green tea epigallocatechin gallate shows a pronounced growth
+12:42:47   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:42:47 [685/873] HS578T / PMID 23565238 / fulltext / 4036 words
+12:42:47   Title: CG0009, a novel glycogen synthase kinase 3 inhibitor, induce
+12:42:57   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:42:57 [686/873] HS578T / PMID 28423716 / fulltext / 8728 words
+12:42:57   Title: Oncogenic features of neuromedin U in breast cancer are asso
+12:43:06   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:43:06 [687/873] HCC1806 / PMID 26455325 / fulltext / 2738 words
+12:43:06   Title: ASCT2/SLC1A5 controls glutamine uptake and tumour growth in 
+12:43:17   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:43:17 [688/873] HCC1806 / PMID 27400234 / fulltext / 6263 words
+12:43:17   Title: Abundant NDRG2 Expression Is Associated with Aggressiveness 
+12:43:27   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:43:27 [689/873] HCC1806 / PMID 39031926 / abstract / 236 words
+12:43:27   Title: MW-19, a dihydropyrazole derivative, induces human triple-ne
+12:43:32   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:43:32 [690/873] MDAMB468 / PMID 40114244 / fulltext / 7627 words
+12:43:32   Title: CircPVT1 weakens miR-33a-5p unleashing the c-MYC/GLS1 metabo
+12:43:42   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:43:42   [checkpoint] saved 690 annotations so far
+12:43:42 [691/873] MDAMB468 / PMID 37233863 / fulltext / 3044 words
+12:43:42   Title: Degradation of MYC by the mutant p53 reactivator drug, COTI-
+12:43:52   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:43:52 [692/873] MDAMB468 / PMID 35966578 / fulltext / 5764 words
+12:43:52   Title: Lipid phosphate phosphatase-2 promotes tumor growth through 
+12:44:02   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:44:02 [693/873] MDAMB468 / PMID 36930701 / abstract / 153 words
+12:44:02   Title: Discovery of LL-K8-22: A Selective, Durable, and Small-Molec
+12:44:07   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:44:07 [694/873] MDAMB468 / PMID 35269680 / fulltext / 6043 words
+12:44:07   Title: Effects of Ruxolitinib and Calcitriol Combination Treatment 
+12:44:17   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:44:17 [695/873] MDAMB468 / PMID 35642054 / fulltext / 6574 words
+12:44:17   Title: Mechanisms of miR-3189-3p-mediated inhibition of c-MYC trans
+12:44:26   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:44:26 [696/873] MDAMB468 / PMID 34992218 / fulltext / 417 words
+12:44:26   Title: NRG1 regulates Fra-1 transcription and metastasis of triple-
+12:44:33   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:44:33 [697/873] MDAMB468 / PMID 38186581 / fulltext / 6581 words
+12:44:33   Title: Combinational therapy with Myc decoy oligodeoxynucleotides e
+12:44:42   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:44:42 [698/873] MDAMB468 / PMID 32360571 / abstract / 219 words
+12:44:42   Title: Silencing KPNA2 inhibits IL-6-induced breast cancer exacerba
+12:44:48   amp=NO oe=YES dep=YES exp=YES kd=YES conf=80
+12:44:48 [699/873] MDAMB468 / PMID 9816240 / abstract / 168 words
+12:44:48   Title: Paclitaxel induces programmed cell death in MDA-MB-468 human
+12:44:53   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:44:53 [700/873] MDAMB468 / PMID 30289427 / abstract / 143 words
+12:44:53   Title: Bcl-3 promotes proliferation and chemosensitivity in BL1 sub
+12:44:58   amp=NO oe=YES dep=YES exp=YES kd=YES conf=95
+12:44:58   [checkpoint] saved 700 annotations so far
+12:44:58 [701/873] MDAMB468 / PMID 28817737 / fulltext / 3535 words
+12:44:58   Title: Myc mediates cancer stem-like cells and EMT changes in tripl
+12:45:10   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:45:10 [702/873] MDAMB468 / PMID 34895159 / fulltext / 3529 words
+12:45:10   Title: MiR-26b-5p inhibits cell proliferation and EMT by targeting 
+12:45:20   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:45:20 [703/873] MDAMB468 / PMID 7923154 / abstract / 100 words
+12:45:20   Title: Epidermal growth factor-mediated apoptosis of MDA-MB-468 hum
+12:45:25   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:45:25 [704/873] MDAMB468 / PMID 23762292 / fulltext / 6943 words
+12:45:25   Title: Deguelin action involves c-Met and EGFR signaling pathways i
+12:45:34   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:45:34 [705/873] MDAMB468 / PMID 41385964 / abstract / 258 words
+12:45:34   Title: Role of c-Myc-regulated miR-196a-5p in the progression of tr
+12:45:41   amp=NO oe=NO dep=YES exp=YES kd=YES conf=80
+12:45:41 [706/873] MDAMB468 / PMID 32603980 / abstract / 190 words
+12:45:41   Title: Design, synthesis and biological evaluation of novel potent 
+12:45:45   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:45:45 [707/873] MDAMB468 / PMID 29750424 / abstract / 291 words
+12:45:45   Title: Stat3/Oct-4/c-Myc signal circuit for regulating stemness-med
+12:45:50   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:45:50 [708/873] MDAMB468 / PMID 39016262 / fulltext / 8071 words
+12:45:50   Title: Targeting xCT with sulfasalazine suppresses triple-negative 
+12:46:00   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:46:00 [709/873] CAMA1 / PMID 1696473 / abstract / 147 words
+12:46:00   Title: Survey of oncogene and growth factor/receptor gene expressio
+12:46:05   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:46:05 [710/873] CAMA1 / PMID 11343771 / abstract / 194 words
+12:46:05   Title: Aberrations of chromosome 8 in 16 breast cancer cell lines b
+12:46:10   amp=NO oe=YES dep=NO exp=NA kd=NA conf=80
+12:46:10   [checkpoint] saved 710 annotations so far
+12:46:10 [711/873] BT474 / PMID 20046830 / fulltext / 6173 words
+12:46:10   Title: Mechanisms of c-myc degradation by nickel compounds and hypo
+12:46:20   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:46:20 [712/873] BT474 / PMID 41347072 / fulltext / 6288 words
+12:46:20   Title: Metformin enhances alpelisib sensitivity in HER2+ breast can
+12:46:32   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:46:32 [713/873] BT474 / PMID 20716114 / fulltext / 4234 words
+12:46:32   Title: Survivin regulation by HER2 through NF-κB and c-myc in irrad
+12:46:41   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:46:41 [714/873] BT474 / PMID 37860544 / fulltext / 4139 words
+12:46:41   Title: Knockdown of LINC00702 inhibits the growth and induces apopt
+12:46:51   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:46:51 [715/873] BT474 / PMID 10639563 / abstract / 199 words
+12:46:51   Title: Profile of genetic alterations and tumorigenicity of human b
+12:46:56   amp=YES oe=NO dep=NO exp=NA kd=NO conf=80
+12:46:56 [716/873] BT474 / PMID 26958811 / fulltext / 6869 words
+12:46:56   Title: A combination of trastuzumab and BAG-1 inhibition synergisti
+12:47:09   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:47:09 [717/873] BT474 / PMID 23267137 / abstract / 161 words
+12:47:09   Title: Effects of transferrin conjugates of artemisinin and artemis
+12:47:16   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:47:16 [718/873] BT474 / PMID 35659529 / abstract / 256 words
+12:47:16   Title: AZD4547 and calcitriol synergistically inhibited BT-474 cell
+12:47:21   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:47:21 [719/873] BT474 / PMID 19787269 / abstract / 237 words
+12:47:21   Title: The involvement of HER2 and p53 status in the regulation of 
+12:47:26   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:47:26 [720/873] BT474 / PMID 31535397 / abstract / 240 words
+12:47:26   Title: The anticancer effect of the TLR4 inhibition using TAK-242 (
+12:47:30   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:47:30   [checkpoint] saved 720 annotations so far
+12:47:30 [721/873] BT474 / PMID 28231748 / abstract / 185 words
+12:47:30   Title: Aloe-Emodin Enhances Tamoxifen Cytotoxicity by Suppressing R
+12:47:34   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:47:34 [722/873] BT474 / PMID 41090333 / abstract / 202 words
+12:47:34   Title: [Transcriptomic Profile of the Trastuzumab-Resistant Breast 
+12:47:40   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:47:40 [723/873] BT474 / PMID 11343771 / abstract / 194 words
+12:47:40   Title: Aberrations of chromosome 8 in 16 breast cancer cell lines b
+12:47:45   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+12:47:45 [724/873] BT474 / PMID 18418214 / fulltext / 5760 words
+12:47:45   Title: Inhibition of gamma-secretase affects proliferation of leuke
+12:47:54   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:47:54 [725/873] BT474 / PMID 37801436 / fulltext / 5543 words
+12:47:54   Title: MAF1 is a predictive biomarker in HER2 positive breast cance
+12:48:05   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:48:05 [726/873] BT474 / PMID 16807678 / abstract / 245 words
+12:48:05   Title: Proteasome inhibitors induce a p38 mitogen-activated protein
+12:48:10   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:48:10 [727/873] BT20 / PMID 34419144 / fulltext / 4756 words
+12:48:10   Title: AKR1B10 promotes breast cancer cell proliferation and migrat
+12:48:19   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:48:19 [728/873] BT20 / PMID 9500466 / abstract / 196 words
+12:48:19   Title: Ets-2 transdominant mutant abolishes anchorage-independent g
+12:48:26   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:48:26 [729/873] BT20 / PMID 11355743 / abstract / 207 words
+12:48:26   Title: Gene amplification and expression of the steroid receptor co
+12:48:30   amp=NO oe=NO dep=NO exp=YES kd=NA conf=100
+12:48:30 [730/873] BT20 / PMID 9804832 / abstract / 212 words
+12:48:30   Title: c-Myc is a major mediator of the synergistic growth inhibito
+12:48:34   amp=NO oe=NO dep=NO exp=NA kd=NO conf=100
+12:48:34   [checkpoint] saved 730 annotations so far
+12:48:34 [731/873] BT20 / PMID 23762292 / fulltext / 6943 words
+12:48:34   Title: Deguelin action involves c-Met and EGFR signaling pathways i
+12:48:43   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:48:43 [732/873] BT20 / PMID 3677090 / abstract / 239 words
+12:48:43   Title: Stimulation of c-myc oncogene expression associated with est
+12:48:49   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:48:49 [733/873] BT20 / PMID 17332342 / abstract / 172 words
+12:48:49   Title: Insulin receptor substrate-1 regulates the transformed pheno
+12:48:53   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+12:48:53 [734/873] BT20 / PMID 16846534 / fulltext / 5476 words
+12:48:53   Title: MUC1 alters oncogenic events and transcription in human brea
+12:49:03   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:49:03 [735/873] BT20 / PMID 27400234 / fulltext / 6263 words
+12:49:03   Title: Abundant NDRG2 Expression Is Associated with Aggressiveness 
+12:49:12   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:49:12 [736/873] BT20 / PMID 9205075 / abstract / 193 words
+12:49:12   Title: Vitamin E succinate inhibits proliferation of BT-20 human br
+12:49:18   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:49:18 [737/873] BT20 / PMID 31894008 / abstract / 182 words
+12:49:18   Title: [AKR1B10 promotes proliferation of breast cancer cells by ac
+12:49:23   amp=NO oe=YES dep=YES exp=YES kd=YES conf=95
+12:49:23 [738/873] BT20 / PMID 1715233 / abstract / 184 words
+12:49:23   Title: A distinct kinase modulates the expression of IFN-inducible 
+12:49:27   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:49:27 [739/873] HCC38 / PMID 25658419 / fulltext / 3104 words
+12:49:27   Title: β-Catenin is required for the tumorigenic behavior of triple
+12:49:37   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:49:37 [740/873] MDAMB157 / PMID 28848040 / fulltext / 606 words
+12:49:37   Title: Noninvasive 89Zr-Transferrin PET Shows Improved Tumor Target
+12:49:45   amp=NO oe=YES dep=NO exp=YES kd=YES conf=95
+12:49:45   [checkpoint] saved 740 annotations so far
+12:49:45 [741/873] MDAMB157 / PMID 39632755 / fulltext / 6971 words
+12:49:45   Title: Design, Screening and Development of Asymmetric siRNAs Targe
+12:49:55   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:49:55 [742/873] MDAMB157 / PMID 11343771 / abstract / 194 words
+12:49:55   Title: Aberrations of chromosome 8 in 16 breast cancer cell lines b
+12:50:01   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+12:50:01 [743/873] MDAMB157 / PMID 28751463 / fulltext / 6392 words
+12:50:01   Title: Dual Src Kinase/Pretubulin Inhibitor KX-01, Sensitizes ERα-n
+12:50:11   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:50:11 [744/873] MDAMB157 / PMID 10652576 / abstract / 113 words
+12:50:11   Title: Induction of the human ARF protein by serum starvation.
+12:50:16   amp=NO oe=NO dep=NO exp=NA kd=NA conf=100
+12:50:16 [745/873] DU4475 / PMID 11343771 / abstract / 194 words
+12:50:16   Title: Aberrations of chromosome 8 in 16 breast cancer cell lines b
+12:50:20   amp=NO oe=YES dep=NO exp=NA kd=NA conf=80
+12:50:20 [746/873] UACC812 / PMID 11343771 / abstract / 194 words
+12:50:20   Title: Aberrations of chromosome 8 in 16 breast cancer cell lines b
+12:50:25   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+12:50:25 [747/873] MDAMB415 / PMID 11343771 / abstract / 194 words
+12:50:25   Title: Aberrations of chromosome 8 in 16 breast cancer cell lines b
+12:50:30   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+12:50:30 [748/873] PSN1 / PMID 3778442 / abstract / 122 words
+12:50:30   Title: Establishment of a human pancreatic adenocarcinoma cell line
+12:50:34   amp=YES oe=YES dep=NO exp=NA kd=NO conf=90
+12:50:34 [749/873] PSN1 / PMID 8090782 / fulltext / 289 words
+12:50:34   Title: Protein farnesyltransferase inhibitors block the growth of r
+12:50:39   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:50:39 [750/873] MIAPACA2 / PMID 25551472 / fulltext / 4297 words
+12:50:39   Title: Latexin inhibits the proliferation of CD133+ miapaca-2 pancr
+12:50:49   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:50:49   [checkpoint] saved 750 annotations so far
+12:50:49 [751/873] MIAPACA2 / PMID 29848706 / fulltext / 5110 words
+12:50:49   Title: Fisetin Enhances the Cytotoxicity of Gemcitabine by Down-reg
+12:50:58   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:50:58 [752/873] MIAPACA2 / PMID 11445243 / abstract / 304 words
+12:50:58   Title: GRP-receptor-mediated signal transduction, gene expression a
+12:51:05   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:51:05 [753/873] MIAPACA2 / PMID 25561562 / abstract / 254 words
+12:51:05   Title: Novel thiosemicarbazones regulate the signal transducer and 
+12:51:09   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:51:09 [754/873] MIAPACA2 / PMID 36898211 / abstract / 144 words
+12:51:09   Title: Discovery of new small molecule inhibitors of the BPTF bromo
+12:51:13   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:51:13 [755/873] MIAPACA2 / PMID 19451745 / abstract / 195 words
+12:51:13   Title: Effect of c-MYC and E2F1 gene silencing and of 5-azacytidine
+12:51:18   amp=NO oe=NO dep=YES exp=YES kd=YES conf=80
+12:51:18 [756/873] MIAPACA2 / PMID 33895280 / fulltext / 1888 words
+12:51:18   Title: Aminopyrazole based CDK9 PROTAC sensitizes pancreatic cancer
+12:51:27   amp=NO oe=NO dep=NO exp=YES kd=NA conf=0
+12:51:27 [757/873] MIAPACA2 / PMID 33883938 / fulltext / 3933 words
+12:51:27   Title: Silencing of Long Non-Coding RNA HOTAIR Alleviates Epithelia
+12:51:36   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:51:36 [758/873] MIAPACA2 / PMID 23486104 / fulltext / 418 words
+12:51:36   Title: Inhibition of telomerase activity by oleanane triterpenoid C
+12:51:43   amp=NO oe=NO dep=NO exp=YES kd=NA conf=50
+12:51:43 [759/873] MIAPACA2 / PMID 31100813 / abstract / 243 words
+12:51:43   Title: Fendiline Enhances the Cytotoxic Effects of Therapeutic Agen
+12:51:47   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:51:47 [760/873] MIAPACA2 / PMID 16046552 / abstract / 250 words
+12:51:47   Title: Molecular consequences of silencing mutant K-ras in pancreat
+12:51:51   amp=NO oe=NO dep=NO exp=YES kd=NO conf=90
+12:51:51   [checkpoint] saved 760 annotations so far
+12:51:51 [761/873] MIAPACA2 / PMID 27875298 / fulltext / 419 words
+12:51:51   Title: Benzyl Isothiocyanate (BITC) Induces Reactive Oxygen Species
+12:51:57   amp=NO oe=NO dep=YES exp=YES kd=YES conf=80
+12:51:57 [762/873] MIAPACA2 / PMID 25997419 / fulltext / 3182 words
+12:51:57   Title: Inhibition of hTERT/telomerase contributes to the antitumor 
+12:52:06   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:52:06 [763/873] MIAPACA2 / PMID 25869100 / fulltext / 4165 words
+12:52:06   Title: Inhibition of β-catenin signaling suppresses pancreatic tumo
+12:52:18   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:52:18 [764/873] MIAPACA2 / PMID 41704363 / fulltext / 498 words
+12:52:18   Title: Discovery of Novel ERK5 Inhibitors for Pancreatic Cancer via
+12:52:25   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:52:25 [765/873] PK1 / PMID 9771909 / abstract / 131 words
+12:52:25   Title: c-myc is not involved in cadmium-elicited apoptotic pathway 
+12:52:30   amp=NO oe=NO dep=NO exp=YES kd=NO conf=80
+12:52:30 [766/873] PK1 / PMID 31979107 / fulltext / 2897 words
+12:52:30   Title: Identification of ADPKD-Related Genes and Pathways in Cells 
+12:52:39   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:52:39 [767/873] PK1 / PMID 8914018 / abstract / 197 words
+12:52:39   Title: Activation of c-myc gene mediates the mitogenic effects of o
+12:52:45   amp=NO oe=YES dep=YES exp=YES kd=YES conf=95
+12:52:45 [768/873] PK1 / PMID 9343440 / fulltext / 381 words
+12:52:45   Title: A role for c-myc in chemically induced renal-cell death.
+12:52:51   amp=NO oe=YES dep=NO exp=YES kd=NA conf=90
+12:52:51 [769/873] PK1 / PMID 7564105 / abstract / 193 words
+12:52:51   Title: Cadmium-induced expression of immediate early genes in LLC-P
+12:52:56   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:52:56 [770/873] PK1 / PMID 12712633 / abstract / 167 words
+12:52:56   Title: Possible involvement of oxidative stress in cisplatin-induce
+12:53:00   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:53:00   [checkpoint] saved 770 annotations so far
+12:53:00 [771/873] PK1 / PMID 8196265 / abstract / 127 words
+12:53:00   Title: Escape from the antiproliferative effect of transforming gro
+12:53:05   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:53:05 [772/873] PK1 / PMID 18172632 / fulltext / 7852 words
+12:53:05   Title: Oxalate exposure provokes HSP 70 response in LLC-PK1 cells, 
+12:53:15   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:53:15 [773/873] PK1 / PMID 1939161 / abstract / 207 words
+12:53:15   Title: Protein synthesis inhibition stabilizes urokinase-type plasm
+12:53:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=100
+12:53:21 [774/873] PK1 / PMID 8780259 / abstract / 207 words
+12:53:21   Title: Direct demonstration of aquaporin-2 water channel recycling 
+12:53:26   amp=NO oe=YES dep=NO exp=YES kd=NA conf=90
+12:53:26 [775/873] PK1 / PMID 7962114 / abstract / 199 words
+12:53:26   Title: Signalling the molecular stress response to nephrotoxic and 
+12:53:31   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:53:31 [776/873] PK1 / PMID 7686084 / abstract / 195 words
+12:53:31   Title: The nephrotoxin dichlorovinylcysteine induces expression of 
+12:53:36   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:53:36 [777/873] SUIT2 / PMID 30228208 / fulltext / 5060 words
+12:53:36   Title: A PET Imaging Strategy for Interrogating Target Engagement a
+12:53:51   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:53:51 [778/873] SUIT2 / PMID 31739488 / fulltext / 3003 words
+12:53:51   Title: CRISPR/Cas9-Mediated Knock-Out of KrasG12D Mutated Pancreati
+12:54:01   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:54:01 [779/873] CAPAN1 / PMID 26108419 / fulltext / 5229 words
+12:54:01   Title: SATB1 Promotes Pancreatic Cancer Growth and Invasion Dependi
+12:54:10   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:54:10 [780/873] CAPAN1 / PMID 30224636 / fulltext / 429 words
+12:54:10   Title: CUDC-907 displays potent antitumor activity against human pa
+12:54:17   amp=NO oe=YES dep=NO exp=YES kd=NA conf=90
+12:54:17   [checkpoint] saved 780 annotations so far
+12:54:17 [781/873] CAPAN1 / PMID 26689992 / fulltext / 6112 words
+12:54:17   Title: Overexpression of PD2 leads to increased tumorigenicity and 
+12:54:29   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:54:29 [782/873] CAPAN1 / PMID 39764880 / abstract / 215 words
+12:54:29   Title: Discovery of 4,5-dihydro-benzo[g]indazole-based hydroxamic a
+12:54:34   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:54:34 [783/873] CAPAN1 / PMID 11445243 / abstract / 304 words
+12:54:34   Title: GRP-receptor-mediated signal transduction, gene expression a
+12:54:39   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+12:54:39 [784/873] CAPAN1 / PMID 30347681 / fulltext / 3422 words
+12:54:39   Title: Sorafenib in Combination with Betulinic Acid Synergistically
+12:54:48   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:54:48 [785/873] CAPAN1 / PMID 29303911 / fulltext / 4670 words
+12:54:48   Title: Histone Deacetylase Inhibition Restores Expression of Hypoxi
+12:54:57   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:54:57 [786/873] CAPAN1 / PMID 24970329 / abstract / 205 words
+12:54:57   Title: The silencing of N-myc downstream-regulated gene-1 in an ort
+12:55:03   amp=NO oe=NO dep=NO exp=YES kd=NO conf=100
+12:55:03 [787/873] CAPAN1 / PMID 16832411 / fulltext / 3700 words
+12:55:03   Title: Cellular differentiation determines the expression of the hy
+12:55:12   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:55:12 [788/873] CFPAC1 / PMID 38346958 / fulltext / 6910 words
+12:55:12   Title: Deoxycytidine kinase inactivation enhances gemcitabine resis
+12:55:22   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:55:22 [789/873] CFPAC1 / PMID 30561520 / abstract / 251 words
+12:55:22   Title: The metastasis suppressor, NDRG1, attenuates oncogenic TGF-β
+12:55:27   amp=NO oe=NO dep=NO exp=YES kd=NA conf=100
+12:55:27 [790/873] CFPAC1 / PMID 36757299 / abstract / 253 words
+12:55:27   Title: MYC/Glutamine Dependency Is a Therapeutic Vulnerability in P
+12:55:31   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:55:31   [checkpoint] saved 790 annotations so far
+12:55:31 [791/873] CFPAC1 / PMID 35116738 / fulltext / 2420 words
+12:55:31   Title: Targeting liquid-liquid phase separation in pancreatic cance
+12:55:40   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:55:40 [792/873] CFPAC1 / PMID 28243729 / fulltext / 4502 words
+12:55:40   Title: Expression of Rab5a correlates with tumor progression in pan
+12:55:50   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:55:50 [793/873] SW1990 / PMID 37076992 / abstract / 233 words
+12:55:50   Title: USP33 enhances cell survival and stemness by deubiquitinatin
+12:55:56   amp=NO oe=NO dep=NO exp=YES kd=NO conf=90
+12:55:56 [794/873] SW1990 / PMID 36416310 / fulltext / 5361 words
+12:55:56   Title: Anti‑silencing function 1B promotes the progression of pancr
+12:56:05   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:56:05 [795/873] SW1990 / PMID 26211592 / abstract / 196 words
+12:56:05   Title: Inhibition of c-Myc by 10058-F4 induces growth arrest and ch
+12:56:11   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:56:11 [796/873] SW1990 / PMID 36631876 / fulltext / 5212 words
+12:56:11   Title: M2 macrophage-derived exosomal miR-193b-3p promotes progress
+12:56:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:56:21 [797/873] SW1990 / PMID 26108419 / fulltext / 5229 words
+12:56:21   Title: SATB1 Promotes Pancreatic Cancer Growth and Invasion Dependi
+12:56:30   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:56:30 [798/873] SW1990 / PMID 35368919 / fulltext / 2710 words
+12:56:30   Title: Antitumor Effects of 10058-F4 and Curcumin in Combination Th
+12:56:40   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:56:40 [799/873] SW1990 / PMID 32362830 / fulltext / 5092 words
+12:56:40   Title: Silencing c-Myc Enhances the Antitumor Activity of Bufalin b
+12:56:49   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:56:49 [800/873] SW1990 / PMID 27686271 / abstract / 297 words
+12:56:49   Title: Bufalin inhibits pancreatic cancer by inducing cell cycle ar
+12:56:55   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+12:56:55   [checkpoint] saved 800 annotations so far
+12:56:55 [801/873] SW1990 / PMID 39737122 / fulltext / 3603 words
+12:56:55   Title: Methyltransferase-like 14 promotes the tumorigenesis and pro
+12:57:04   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:57:04 [802/873] SW1990 / PMID 26689992 / fulltext / 6112 words
+12:57:04   Title: Overexpression of PD2 leads to increased tumorigenicity and 
+12:57:14   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:57:14 [803/873] SW1990 / PMID 26719042 / abstract / 232 words
+12:57:14   Title: Microarray-based gene expression profiling reveals genes and
+12:57:21   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:57:21 [804/873] SW1990 / PMID 27663663 / abstract / 166 words
+12:57:21   Title: Overexpression of SOX18 correlates with accelerated cell gro
+12:57:25   amp=NO oe=YES dep=NO exp=YES kd=YES conf=80
+12:57:25 [805/873] SW1990 / PMID 28108627 / abstract / 198 words
+12:57:25   Title: Oncogenic KRAS Targets MUC16/CA125 in Pancreatic Ductal Aden
+12:57:30   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:57:30 [806/873] SW1990 / PMID 25471789 / fulltext / 5172 words
+12:57:30   Title: MMI-166, a selective matrix metalloproteinase inhibitor, pro
+12:57:40   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:57:40 [807/873] SW1990 / PMID 33298240 / fulltext / 2729 words
+12:57:40   Title: Hypermethylation-mediated silencing of NDRG4 promotes pancre
+12:57:50   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:57:50 [808/873] SW1990 / PMID 24040121 / fulltext / 7671 words
+12:57:50   Title: Concomitant targeting of multiple key transcription factors 
+12:57:59   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:57:59 [809/873] ASPC1 / PMID 36656085 / fulltext / 9324 words
+12:57:59   Title: Design, synthesis and biological evaluation of 2-((4-sulfamo
+12:58:09   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:58:09 [810/873] ASPC1 / PMID 16382049 / abstract / 378 words
+12:58:09   Title: External imaging of CCND1, MYC, and KRAS oncogene mRNAs with
+12:58:15   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:58:15   [checkpoint] saved 810 annotations so far
+12:58:15 [811/873] ASPC1 / PMID 33932092 / fulltext / 5184 words
+12:58:15   Title: SF3B1 mutation in pancreatic cancer contributes to aerobic g
+12:58:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:58:24 [812/873] ASPC1 / PMID 30224636 / fulltext / 429 words
+12:58:24   Title: CUDC-907 displays potent antitumor activity against human pa
+12:58:31   amp=NO oe=YES dep=YES exp=YES kd=NA conf=95
+12:58:31 [813/873] ASPC1 / PMID 34412631 / fulltext / 6755 words
+12:58:31   Title: Contribution of nuclear BCL10 expression to tumor progressio
+12:58:41   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:58:41 [814/873] ASPC1 / PMID 28078015 / fulltext / 383 words
+12:58:41   Title: Long non-coding RNA CCAT1 that can be activated by c-Myc pro
+12:58:48   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+12:58:48 [815/873] ASPC1 / PMID 27888805 / fulltext / 3402 words
+12:58:48   Title: Effects of Abies sibirica terpenes on cancer- and aging-asso
+12:59:01   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:59:01 [816/873] ASPC1 / PMID 39051843 / abstract / 221 words
+12:59:01   Title: Bufadienolide-Fatty Acid Conjugates from the Fertilized Eggs
+12:59:07   amp=NO oe=NO dep=NO exp=YES kd=NA conf=90
+12:59:07 [817/873] ASPC1 / PMID 30347681 / fulltext / 3422 words
+12:59:07   Title: Sorafenib in Combination with Betulinic Acid Synergistically
+12:59:16   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:59:16 [818/873] ASPC1 / PMID 32884344 / fulltext / 4958 words
+12:59:16   Title: Blocking circ_0013912 Suppressed Cell Growth, Migration and 
+12:59:25   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:59:25 [819/873] ASPC1 / PMID 35116738 / fulltext / 2420 words
+12:59:25   Title: Targeting liquid-liquid phase separation in pancreatic cance
+12:59:34   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:59:34 [820/873] ASPC1 / PMID 36156366 / abstract / 174 words
+12:59:34   Title: Azulene hydrazide-hydrazones for selective targeting of panc
+12:59:40   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:59:40   [checkpoint] saved 820 annotations so far
+12:59:40 [821/873] ASPC1 / PMID 17233604 / abstract / 213 words
+12:59:40   Title: Receptor-mediated internalization of chelator-PNA-peptide hy
+12:59:44   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+12:59:44 [822/873] ASPC1 / PMID 33183172 / abstract / 191 words
+12:59:44   Title: LRH-1 (liver receptor homolog-1) derived affinity peptide li
+12:59:49   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+12:59:49 [823/873] ASPC1 / PMID 37705597 / fulltext / 5042 words
+12:59:49   Title: Variation of extrachromosomal circular DNA in cancer cell li
+12:59:58   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+12:59:58 [824/873] ASPC1 / PMID 34335707 / fulltext / 3340 words
+12:59:58   Title: Targeting the EZH2-PPAR Axis Is a Potential Therapeutic Path
+13:00:07   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:00:07 [825/873] ASPC1 / PMID 24807963 / fulltext / 4264 words
+13:00:07   Title: BET bromodomain inhibitors block growth of pancreatic cancer
+13:00:16   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:00:16 [826/873] PANC1 / PMID 38568057 / fulltext / 6276 words
+13:00:16   Title: Development, synthesis and validation of improved c-Myc/Max 
+13:00:26   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:00:26 [827/873] PANC1 / PMID 38465336 / fulltext / 3017 words
+13:00:26   Title: PTTG1 induces pancreatic cancer cell proliferation and promo
+13:00:35   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:00:35 [828/873] PANC1 / PMID 16382049 / abstract / 378 words
+13:00:35   Title: External imaging of CCND1, MYC, and KRAS oncogene mRNAs with
+13:00:42   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+13:00:42 [829/873] PANC1 / PMID 37719017 / fulltext / 7526 words
+13:00:42   Title: Molecular profiling and specific targeting of gemcitabine-re
+13:00:51   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:00:51 [830/873] PANC1 / PMID 26211592 / abstract / 196 words
+13:00:51   Title: Inhibition of c-Myc by 10058-F4 induces growth arrest and ch
+13:00:57   amp=NO oe=NO dep=YES exp=YES kd=NA conf=80
+13:00:57   [checkpoint] saved 830 annotations so far
+13:00:57 [831/873] PANC1 / PMID 38864840 / abstract / 181 words
+13:00:57   Title: Coumarin-modified ruthenium complexes: Synthesis, characteri
+13:01:02   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+13:01:02 [832/873] PANC1 / PMID 32362830 / fulltext / 5092 words
+13:01:02   Title: Silencing c-Myc Enhances the Antitumor Activity of Bufalin b
+13:01:11   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:01:11 [833/873] PANC1 / PMID 29389953 / fulltext / 5122 words
+13:01:11   Title: Role of metastasis-associated lung adenocarcinoma transcript
+13:01:21   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:01:21 [834/873] PANC1 / PMID 16423995 / abstract / 265 words
+13:01:21   Title: PEG10 is a c-MYC target gene in cancer cells.
+13:01:28   amp=NO oe=YES dep=NO exp=YES kd=YES conf=95
+13:01:28 [835/873] PANC1 / PMID 35256673 / fulltext / 10780 words
+13:01:28   Title: Deprogramming metabolism in pancreatic cancer with a bi-func
+13:01:37   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:01:37 [836/873] PANC1 / PMID 26108419 / fulltext / 5229 words
+13:01:37   Title: SATB1 Promotes Pancreatic Cancer Growth and Invasion Dependi
+13:01:46   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:01:46 [837/873] PANC1 / PMID 31911852 / fulltext / 482 words
+13:01:46   Title: FGFBP1, a downstream target of the FBW7/c-Myc axis, promotes
+13:01:53   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+13:01:53 [838/873] PANC1 / PMID 33992720 / abstract / 249 words
+13:01:53   Title: Aspartame induces cancer stem cell enrichment through p21, N
+13:01:58   amp=NO oe=YES dep=NO exp=YES kd=NO conf=80
+13:01:58 [839/873] PANC1 / PMID 30224636 / fulltext / 429 words
+13:01:58   Title: CUDC-907 displays potent antitumor activity against human pa
+13:02:04   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+13:02:04 [840/873] PANC1 / PMID 32609742 / fulltext / 5184 words
+13:02:04   Title: Hyperglycemia enhances pancreatic cancer progression accompa
+13:02:13   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:02:13   [checkpoint] saved 840 annotations so far
+13:02:13 [841/873] PANC1 / PMID 26803058 / abstract / 181 words
+13:02:13   Title: β2-adrenergic receptor signaling promotes pancreatic ductal 
+13:02:19   amp=NO oe=YES dep=YES exp=YES kd=YES conf=90
+13:02:19 [842/873] PANC1 / PMID 34412631 / fulltext / 6755 words
+13:02:19   Title: Contribution of nuclear BCL10 expression to tumor progressio
+13:02:28   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:02:28 [843/873] PANC1 / PMID 28008270 / fulltext / 2983 words
+13:02:28   Title: Overexpression and clinical significance of MYC-associated z
+13:02:38   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:02:38 [844/873] PANC1 / PMID 38245886 / fulltext / 318 words
+13:02:38   Title: Machine Learning Developed a MYC Expression Feature-Based Si
+13:02:43   amp=NO oe=NO dep=NO exp=NA kd=NA conf=100
+13:02:43 [845/873] KP2 / PMID 12842079 / abstract / 67 words
+13:02:43   Title: A license to kill: transcriptional activation and enhanced t
+13:02:47   amp=NO oe=NO dep=NO exp=NA kd=NA conf=100
+13:02:47 [846/873] KP2 / PMID 27167001 / fulltext / 5222 words
+13:02:47   Title: A natural small molecule, catechol, induces c-Myc degradatio
+13:02:56   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:02:56 [847/873] BXPC3 / PMID 28315323 / abstract / 482 words
+13:02:56   Title: Increased Serotonin Signaling Contributes to the Warburg Eff
+13:03:02   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+13:03:02 [848/873] BXPC3 / PMID 39089637 / abstract / 250 words
+13:03:02   Title: Targeting SMYD2 promotes ferroptosis and impacts the progres
+13:03:07   amp=NO oe=YES dep=NO exp=YES kd=YES conf=80
+13:03:07 [849/873] BXPC3 / PMID 37719017 / fulltext / 7526 words
+13:03:07   Title: Molecular profiling and specific targeting of gemcitabine-re
+13:03:16   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:03:16 [850/873] BXPC3 / PMID 33932092 / fulltext / 5184 words
+13:03:16   Title: SF3B1 mutation in pancreatic cancer contributes to aerobic g
+13:03:25   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:03:25   [checkpoint] saved 850 annotations so far
+13:03:25 [851/873] BXPC3 / PMID 32609742 / fulltext / 5184 words
+13:03:25   Title: Hyperglycemia enhances pancreatic cancer progression accompa
+13:03:34   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:03:34 [852/873] BXPC3 / PMID 26803058 / abstract / 181 words
+13:03:34   Title: β2-adrenergic receptor signaling promotes pancreatic ductal 
+13:03:40   amp=NO oe=YES dep=YES exp=YES kd=YES conf=95
+13:03:40 [853/873] BXPC3 / PMID 34412631 / fulltext / 6755 words
+13:03:40   Title: Contribution of nuclear BCL10 expression to tumor progressio
+13:03:50   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:03:50 [854/873] BXPC3 / PMID 27686271 / abstract / 297 words
+13:03:50   Title: Bufalin inhibits pancreatic cancer by inducing cell cycle ar
+13:03:56   amp=NO oe=YES dep=YES exp=YES kd=NA conf=80
+13:03:56 [855/873] BXPC3 / PMID 26459366 / abstract / 217 words
+13:03:56   Title: Cryptotanshinone suppresses the proliferation and induces th
+13:04:00   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+13:04:00 [856/873] BXPC3 / PMID 37076992 / abstract / 233 words
+13:04:00   Title: USP33 enhances cell survival and stemness by deubiquitinatin
+13:04:05   amp=NO oe=NO dep=NO exp=YES kd=YES conf=80
+13:04:05 [857/873] BXPC3 / PMID 33134174 / fulltext / 6958 words
+13:04:05   Title: GOLPH3 Promotes Cancer Growth by Interacting With STIP1 and 
+13:04:14   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:04:14 [858/873] BXPC3 / PMID 21904657 / fulltext / 481 words
+13:04:14   Title: Network modeling of CDF treated pancreatic cancer cells reve
+13:04:21   amp=NO oe=YES dep=YES exp=YES kd=YES conf=95
+13:04:21 [859/873] BXPC3 / PMID 23328228 / fulltext / 5893 words
+13:04:21   Title: Intraductal delivery of adenoviruses targets pancreatic tumo
+13:04:31   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:04:31 [860/873] BXPC3 / PMID 1364229 / abstract / 141 words
+13:04:31   Title: Action of tiazofurin and 8-Cl-cAMP in human colon and pancre
+13:04:35   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+13:04:35   [checkpoint] saved 860 annotations so far
+13:04:35 [861/873] BXPC3 / PMID 22270965 / fulltext / 419 words
+13:04:35   Title: Escin augments the efficacy of gemcitabine through down-regu
+13:04:40   amp=NO oe=NO dep=NO exp=YES kd=NA conf=80
+13:04:40 [862/873] BXPC3 / PMID 20137856 / abstract / 155 words
+13:04:40   Title: Dihydroartemisinin inactivates NF-kappaB and potentiates the
+13:04:44   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+13:04:44 [863/873] BXPC3 / PMID 30347681 / fulltext / 3422 words
+13:04:44   Title: Sorafenib in Combination with Betulinic Acid Synergistically
+13:04:54   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:04:54 [864/873] BXPC3 / PMID 35116738 / fulltext / 2420 words
+13:04:54   Title: Targeting liquid-liquid phase separation in pancreatic cance
+13:05:03   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:05:03 [865/873] BXPC3 / PMID 28769562 / fulltext / 5826 words
+13:05:03   Title: Mithramycin-loaded mPEG-PLGA nanoparticles exert potent anti
+13:05:12   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:05:12 [866/873] BXPC3 / PMID 36727657 / fulltext / 7214 words
+13:05:12   Title: Systemic deuteration of SCID mice using the water-isotopolog
+13:05:24   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:05:24 [867/873] CAPAN2 / PMID 30228208 / fulltext / 5060 words
+13:05:24   Title: A PET Imaging Strategy for Interrogating Target Engagement a
+13:05:38   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:05:38 [868/873] CAPAN2 / PMID 11445243 / abstract / 304 words
+13:05:38   Title: GRP-receptor-mediated signal transduction, gene expression a
+13:05:45   amp=NO oe=YES dep=NO exp=NA kd=NO conf=80
+13:05:45 [869/873] CAPAN2 / PMID 27481517 / abstract / 213 words
+13:05:45   Title: Rab11a sustains GSK3β/Wnt/β-catenin signaling to enhance can
+13:05:50   amp=NO oe=YES dep=NO exp=YES kd=NA conf=80
+13:05:50 [870/873] CAPAN2 / PMID 32604971 / fulltext / 4909 words
+13:05:50   Title: Dietary Crocin is Protective in Pancreatic Cancer while Redu
+13:05:59   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:05:59   [checkpoint] saved 870 annotations so far
+13:05:59 [871/873] CAPAN2 / PMID 28243729 / fulltext / 4502 words
+13:05:59   Title: Expression of Rab5a correlates with tumor progression in pan
+13:06:08   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:06:08 [872/873] QGP1 / PMID 33807122 / fulltext / 5200 words
+13:06:08   Title: Antitumoral Activity of the MEK Inhibitor Trametinib (TMT212
+13:06:18   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:06:18 [873/873] QGP1 / PMID 32033025 / fulltext / 5504 words
+13:06:18   Title: Inhibition of Wnt/β-Catenin Signaling in Neuroendocrine Tumo
+13:06:27   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:06:27 
+Done. Annotated 873 papers.
+13:06:27 Output: /home/rangoon/Desktop/paper-search/results2.csv
+bition of Wnt/β-Catenin Signaling in Neuroendocrine Tumo
+13:06:27   amp=NO oe=NO dep=NO exp=NA kd=NA conf=0
+13:06:27 
+Done. Annotated 873 papers.
+13:06:27 Output: /home/rangoon/Desktop/paper-search/results2.csv
